@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Change Calculator</string>
+
+    <!--MainActivity-->
+    <string name="total">Total</string>
+    <string name="cash">Cash</string>
+    <string name="change_due">Change Due</string>
+
+</resources>

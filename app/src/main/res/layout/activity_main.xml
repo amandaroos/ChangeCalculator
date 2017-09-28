@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.amandfarrell.www.changecalculator.MainActivity">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:paddingTop="24dp">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:gravity="end"
+                android:paddingRight="8dp"
+                android:text="Total:" />
+
+            <EditText
+                android:id="@+id/total"
+                android:layout_width="94dp"
+                android:layout_height="wrap_content"
+                android:minWidth="48dp"
+                android:inputType="numberDecimal"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:gravity="end"
+                android:paddingRight="8dp"
+                android:text="Cash:" />
+
+            <EditText
+                android:id="@+id/cash"
+                android:layout_width="16dp"
+                android:layout_height="wrap_content"
+                android:minWidth="48dp"
+                android:inputType="numberDecimal"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:gravity="end"
+                android:paddingTop="16dp"
+                android:paddingRight="8dp"
+                android:text="Change Due:" />
+
+            <TextView
+                android:id="@+id/change_due"
+                android:layout_width="16dp"
+                android:layout_height="wrap_content"
+                android:minWidth="56dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                tools:text="$24.50" />
+        </TableRow>
+
+    </TableLayout>
+
+</android.support.constraint.ConstraintLayout>
