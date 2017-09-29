@@ -2,8 +2,10 @@
     <string name="app_name">Change Calculator</string>
 
     <!--MainActivity-->
-    <string name="total">Total</string>
-    <string name="cash">Cash</string>
-    <string name="change_due">Change Due</string>
+    <string name="total">Total:</string>
+    <string name="cash">Cash:</string>
+    <string name="change_due">Change Due:</string>
+    <string name="currency_symbol">$</string>
+    <string name="zeroCurrecy">$0.00</string>
 
 </resources>
