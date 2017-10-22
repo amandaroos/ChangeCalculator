@@ -4,12 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="16dp"
     tools:context="com.amandfarrell.www.changecalculator.MainActivity">
 
     <TableLayout
+        android:id="@+id/topTable"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingTop="24dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -20,17 +21,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="end"
-                android:paddingRight="8dp"
                 android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="@string/total" />
-
-<!--            <TextView
-                android:id="@+id/total_textview"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/zeroCurrecy"
-                android:textAppearance="?android:textAppearanceLarge"
-                android:textStyle="bold" />-->
 
             <EditText
                 android:id="@+id/total"
@@ -48,17 +41,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="end"
-                android:paddingRight="8dp"
                 android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="@string/cash" />
-
-<!--            <TextView
-                android:id="@+id/cash_textview"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/zeroCurrecy"
-                android:textAppearance="?android:textAppearanceLarge"
-                android:textStyle="bold" />-->
 
             <EditText
                 android:id="@+id/cash"
@@ -76,8 +61,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="end"
-                android:paddingRight="8dp"
                 android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:paddingTop="16dp"
                 android:text="@string/change_due" />
 
@@ -95,5 +80,137 @@
         </TableRow>
 
     </TableLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/topTable"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="8dp">
+
+        <!--bills-->
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+            <TableRow>
+
+                <TextView
+                    android:paddingTop="16dp"
+                    android:text="Bills" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text="20" />
+
+                <TextView
+                    android:id="@+id/twenty"
+                    style="@style/Money" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text="10" />
+
+                <TextView
+                    android:id="@+id/ten"
+                    style="@style/Money" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text="5" />
+
+                <TextView
+                    android:id="@+id/five"
+                    style="@style/Money" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text="1" />
+
+                <TextView
+                    android:id="@+id/one"
+                    style="@style/Money" />
+            </TableRow>
+        </TableLayout>
+
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+            <!--coins-->
+            <TableRow>
+
+                <TextView
+                    android:paddingTop="16dp"
+                    android:text="Coins" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text=".25" />
+
+                <TextView
+                    android:id="@+id/quarter"
+                    style="@style/Money" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text=".10" />
+
+                <TextView
+                    android:id="@+id/dime"
+                    style="@style/Money" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text=".05" />
+
+                <TextView
+                    android:id="@+id/nickel"
+                    style="@style/Money" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    style="@style/MoneyLabels"
+                    android:text=".01" />
+
+                <TextView
+                    android:id="@+id/penny"
+                    style="@style/Money" />
+            </TableRow>
+
+
+        </TableLayout>
+
+    </LinearLayout>
+
 
 </android.support.constraint.ConstraintLayout>
