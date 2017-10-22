@@ -101,7 +101,7 @@
 
                 <TextView
                     android:paddingTop="16dp"
-                    android:text="Bills" />
+                    android:text="@string/bills" />
 
             </TableRow>
 
@@ -109,7 +109,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text="20" />
+                    android:text="@string/twenty" />
 
                 <TextView
                     android:id="@+id/twenty"
@@ -120,7 +120,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text="10" />
+                    android:text="@string/ten" />
 
                 <TextView
                     android:id="@+id/ten"
@@ -131,7 +131,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text="5" />
+                    android:text="@string/five" />
 
                 <TextView
                     android:id="@+id/five"
@@ -142,7 +142,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text="1" />
+                    android:text="@string/one" />
 
                 <TextView
                     android:id="@+id/one"
@@ -154,20 +154,22 @@
         <TableLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="16dp">
+            android:paddingTop="16dp"
+            android:paddingLeft="32dp"
+            android:paddingRight="16dp">
             <!--coins-->
             <TableRow>
 
                 <TextView
                     android:paddingTop="16dp"
-                    android:text="Coins" />
+                    android:text="@string/coins" />
             </TableRow>
 
             <TableRow>
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text=".25" />
+                    android:text="@string/quarter" />
 
                 <TextView
                     android:id="@+id/quarter"
@@ -178,7 +180,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text=".10" />
+                    android:text="@string/dime" />
 
                 <TextView
                     android:id="@+id/dime"
@@ -189,7 +191,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text=".05" />
+                    android:text="@string/nickel" />
 
                 <TextView
                     android:id="@+id/nickel"
@@ -200,7 +202,7 @@
 
                 <TextView
                     style="@style/MoneyLabels"
-                    android:text=".01" />
+                    android:text="@string/penny" />
 
                 <TextView
                     android:id="@+id/penny"

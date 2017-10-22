@@ -8,4 +8,18 @@
     <string name="currency_symbol">$</string>
     <string name="zeroCurrecy">$0.00</string>
 
+    <!--Bills-->
+    <string name="bills">Bills</string>
+    <string name="twenty">$20</string>
+    <string name="ten">$10</string>
+    <string name="five">$5</string>
+    <string name="one">$1</string>
+
+    <!--Coins-->
+    <string name="coins">Coins</string>
+    <string name="quarter">$0.25</string>
+    <string name="dime">$0.10</string>
+    <string name="nickel">$0.05</string>
+    <string name="penny">$0.01</string>
+
 </resources>
