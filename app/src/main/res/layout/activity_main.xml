@@ -20,9 +20,9 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:gravity="end"
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:text="@string/total" />
 
             <EditText
@@ -40,9 +40,9 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:gravity="end"
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:text="@string/cash" />
 
             <EditText
@@ -64,6 +64,7 @@
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
                 android:paddingTop="16dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:text="@string/change_due" />
 
             <TextView
