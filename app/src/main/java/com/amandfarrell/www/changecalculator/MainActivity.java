@@ -1,5 +1,6 @@
 package com.amandfarrell.www.changecalculator;
 
+import android.app.Activity;
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,6 +12,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import org.w3c.dom.Text;
 
@@ -99,19 +101,27 @@ public class MainActivity extends AppCompatActivity {
                 mIgnoreNextTextChange = true;
             }
 
-            String totalStr = mTotalEditText.getText().toString();
-            totalStr = totalStr.replaceAll("[$.]", "");
-            if (totalStr == null || totalStr.isEmpty()) {
-                mTotal = 0;
-            } else {
-                mTotal = Integer.parseInt(totalStr);
-            }
-            totalStr = getResources().getString(R.string.currency_symbol)
-                    + String.format(Locale.getDefault(), "%.2f", mTotal / 100.0);
-            mTotalEditText.setText(totalStr);
-            mTotalEditText.setSelection(mTotalEditText.getText().length());
+            try {
+                String totalStr = mTotalEditText.getText().toString();
+                totalStr = totalStr.replaceAll("[$.]", "");
+                if (totalStr == null || totalStr.isEmpty()) {
+                    mTotal = 0;
+                } else {
+                    mTotal = Integer.parseInt(totalStr);
+                }
+                totalStr = getResources().getString(R.string.currency_symbol)
+                        + String.format(Locale.getDefault(), "%.2f", mTotal / 100.0);
+                mTotalEditText.setText(totalStr);
+                mTotalEditText.setSelection(mTotalEditText.getText().length());
 
-            calculateChangeDue();
+                calculateChangeDue();
+            }
+            catch (Exception e){
+                Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
+
+                mTotal = 0;
+                mTotalEditText.setText(R.string.zeroCurrecy);
+            }
         }
 
         @Override
@@ -135,19 +145,29 @@ public class MainActivity extends AppCompatActivity {
                 mIgnoreNextTextChange = true;
             }
 
-            String cashStr = mCashEditText.getText().toString();
-            cashStr = cashStr.replaceAll("[$.]", "");
-            if (cashStr == null || cashStr.isEmpty()) {
-                mCash = 0;
-            } else {
-                mCash = Integer.parseInt(cashStr);
-            }
-            cashStr = getResources().getString(R.string.currency_symbol)
-                    + String.format(Locale.getDefault(), "%.2f", mCash / 100.0);
-            mCashEditText.setText(cashStr);
-            mCashEditText.setSelection(mCashEditText.getText().length());
+            try {
+                String cashStr = mCashEditText.getText().toString();
+                cashStr = cashStr.replaceAll("[$.]", "");
+                if (cashStr == null || cashStr.isEmpty()) {
+                    mCash = 0;
+                } else {
+                    mCash = Integer.parseInt(cashStr);
+                }
+                cashStr = getResources().getString(R.string.currency_symbol)
+                        + String.format(Locale.getDefault(), "%.2f", mCash / 100.0);
+                mCashEditText.setText(cashStr);
 
-            calculateChangeDue();
+                //Todo remove?
+                mCashEditText.setSelection(mCashEditText.getText().length());
+
+                calculateChangeDue();
+            }
+            catch (Exception e){
+                Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
+
+                mCash = 0;
+                mCashEditText.setText(R.string.zeroCurrecy);
+            }
         }
 
         @Override

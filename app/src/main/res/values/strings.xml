@@ -22,4 +22,7 @@
     <string name="nickel">$0.05</string>
     <string name="penny">$0.01</string>
 
+    <!-- Toast message when user enters a score that is too large [CHAR LIMIT=30] -->
+    <string name="large_number_error_toast">Error: number is too large</string>
+
 </resources>
