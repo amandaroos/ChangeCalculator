@@ -2,11 +2,14 @@ package com.amandfarrell.www.changecalculator;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -63,9 +66,7 @@ public class MainActivity extends AppCompatActivity {
         mNickel = (TextView) findViewById(R.id.nickel);
         mPenny = (TextView) findViewById(R.id.penny);
 
-        mDollarTextViews = new TextView[] {mTwenty, mTen, mFive, mOne, mQuarter, mDime, mNickel, mPenny};
-
-
+        mDollarTextViews = new TextView[]{mTwenty, mTen, mFive, mOne, mQuarter, mDime, mNickel, mPenny};
 
         //All the text should be selected when the text box is tapped
         mTotalEditText.setSelectAllOnFocus(true);
@@ -84,6 +85,22 @@ public class MainActivity extends AppCompatActivity {
         mDime.setText("0");
         mNickel.setText("0");
         mPenny.setText("0");
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_donate:
+                Intent intent = new Intent(MainActivity.this, DonateActivity.class);
+                startActivity(intent);
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     private TextWatcher totalTextWatcher = new TextWatcher() {
@@ -115,8 +132,7 @@ public class MainActivity extends AppCompatActivity {
                 mTotalEditText.setSelection(mTotalEditText.getText().length());
 
                 calculateChangeDue();
-            }
-            catch (Exception e){
+            } catch (Exception e) {
                 Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
 
                 mTotal = 0;
@@ -161,8 +177,7 @@ public class MainActivity extends AppCompatActivity {
                 mCashEditText.setSelection(mCashEditText.getText().length());
 
                 calculateChangeDue();
-            }
-            catch (Exception e){
+            } catch (Exception e) {
                 Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
 
                 mCash = 0;
@@ -184,15 +199,14 @@ public class MainActivity extends AppCompatActivity {
         //Remember that the amounts are in pennies, not dollars
         if (mChangeDue > 0) {
             int bills;
-            for (int i = 0; i < mDollarDenom.length; i++){
-                bills = mChangeDue/mDollarDenom[i];
+            for (int i = 0; i < mDollarDenom.length; i++) {
+                bills = mChangeDue / mDollarDenom[i];
                 mDollarTextViews[i].setText(Integer.toString(bills));
 
                 mChangeDue = mChangeDue % mDollarDenom[i];
             }
 
-        }
-        else {
+        } else {
             mTwenty.setText("0");
             mTen.setText("0");
             mFive.setText("0");
@@ -202,6 +216,5 @@ public class MainActivity extends AppCompatActivity {
             mNickel.setText("0");
             mPenny.setText("0");
         }
-
     }
 }
