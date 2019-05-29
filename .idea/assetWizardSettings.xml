@@ -51,6 +51,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="ffffff" />
+                                                <entry key="scalingPercent" value="144" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -73,6 +74,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
+                                                <entry key="scalingPercent" value="99" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -107,7 +109,6 @@
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="8bc34a" />
                                       <entry key="foregroundImage" value="C:\Users\Amanda\AndroidStudioProjects\ChangeCalculator\app\src\main\res\drawable\ic_launcher_foreground.xml" />
-                                      <entry key="previewDensity" value="HIGH" />
                                     </map>
                                   </option>
                                 </PersistentState>
