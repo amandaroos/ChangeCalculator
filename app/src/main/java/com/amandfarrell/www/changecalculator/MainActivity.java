@@ -1,25 +1,16 @@
 package com.amandfarrell.www.changecalculator;
 
-import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.w3c.dom.Text;
-
-import java.lang.reflect.Array;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
@@ -127,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
                     mTotal = Integer.parseInt(totalStr);
                 }
                 totalStr = getResources().getString(R.string.currency_symbol)
-                        + String.format(Locale.getDefault(), "%.2f", mTotal / 100.0);
+                        + String.format(Locale.ENGLISH, "%.2f", mTotal / 100.0);
                 mTotalEditText.setText(totalStr);
                 mTotalEditText.setSelection(mTotalEditText.getText().length());
 
@@ -136,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
 
                 mTotal = 0;
-                mTotalEditText.setText(R.string.zeroCurrecy);
+                mTotalEditText.setText(R.string.zeroCurrency);
             }
         }
 
@@ -170,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
                     mCash = Integer.parseInt(cashStr);
                 }
                 cashStr = getResources().getString(R.string.currency_symbol)
-                        + String.format(Locale.getDefault(), "%.2f", mCash / 100.0);
+                        + String.format(Locale.ENGLISH, "%.2f", mCash / 100.0);
                 mCashEditText.setText(cashStr);
 
                 //Todo remove?
@@ -181,7 +172,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
 
                 mCash = 0;
-                mCashEditText.setText(R.string.zeroCurrecy);
+                mCashEditText.setText(R.string.zeroCurrency);
             }
         }
 
@@ -193,7 +184,7 @@ public class MainActivity extends AppCompatActivity {
     private void calculateChangeDue() {
         mChangeDue = mCash - mTotal;
         String changeDueStr = getResources().getString(R.string.currency_symbol)
-                + String.format(Locale.getDefault(), "%.2f", mChangeDue / 100.0);
+                + String.format(Locale.ENGLISH, "%.2f", mChangeDue / 100.0);
         mChangeDueTextView.setText(changeDueStr);
 
         //Remember that the amounts are in pennies, not dollars

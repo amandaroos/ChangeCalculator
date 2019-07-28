@@ -25,8 +25,8 @@ android {
         applicationId "com.amandfarrell.www.changecalculator"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 7
-        versionName "ChangeCalculator 1.6"
+        versionCode 8
+        versionName "ChangeCalculator 1.7"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

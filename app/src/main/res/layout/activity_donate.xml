@@ -30,6 +30,35 @@
             android:text="@string/donate_message"
             android:textSize="16sp" />
 
+        <TextView
+            android:id="@+id/donate_message2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="24dp"
+            android:text="@string/donate_message2"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/donate_message3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="24dp"
+            android:text="@string/donate_message3"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/donate_thanks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="24dp"
+            android:text="@string/donate_thanks"
+            android:textSize="16sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

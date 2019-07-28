@@ -11,6 +11,7 @@
         android:id="@+id/topTable"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -22,8 +23,8 @@
                 android:layout_height="wrap_content"
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
-                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-                android:text="@string/total" />
+                android:text="@string/total"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <EditText
                 android:id="@+id/total"
@@ -32,7 +33,7 @@
                 android:gravity="center"
                 android:inputType="number"
                 android:minWidth="48dp"
-                android:text="@string/zeroCurrecy" />
+                android:text="@string/zeroCurrency" />
         </TableRow>
 
         <TableRow>
@@ -42,8 +43,8 @@
                 android:layout_height="wrap_content"
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
-                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-                android:text="@string/cash" />
+                android:text="@string/cash"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <EditText
                 android:id="@+id/cash"
@@ -52,7 +53,7 @@
                 android:gravity="center"
                 android:inputType="number"
                 android:minWidth="48dp"
-                android:text="@string/zeroCurrecy" />
+                android:text="@string/zeroCurrency" />
         </TableRow>
 
         <TableRow>
@@ -62,10 +63,10 @@
                 android:layout_height="wrap_content"
                 android:gravity="end"
                 android:paddingLeft="8dp"
-                android:paddingRight="8dp"
                 android:paddingTop="16dp"
-                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-                android:text="@string/change_due" />
+                android:paddingRight="8dp"
+                android:text="@string/change_due"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <TextView
                 android:id="@+id/change_due"
@@ -73,7 +74,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:minWidth="56dp"
-                android:text="@string/zeroCurrecy"
+                android:text="@string/zeroCurrency"
                 android:textAppearance="?android:textAppearanceLarge"
                 android:textStyle="bold" />
 
@@ -87,9 +88,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintTop_toBottomOf="@+id/topTable"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/topTable"
         tools:layout_editor_absoluteX="8dp">
 
         <!--bills-->
@@ -155,8 +156,8 @@
         <TableLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingTop="16dp"
             android:paddingLeft="32dp"
+            android:paddingTop="16dp"
             android:paddingRight="16dp">
             <!--coins-->
             <TableRow>
