@@ -3,9 +3,10 @@ package com.amandfarrell.www.changecalculator;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class DonateActivity extends AppCompatActivity {
 
@@ -15,7 +16,7 @@ public class DonateActivity extends AppCompatActivity {
         setContentView(R.layout.activity_donate);
     }
 
-    public void goToBlueLink(View view){
+    public void goToBlueLink(View view) {
         try {
             startActivity(new Intent(Intent.ACTION_VIEW,
                     Uri.parse(getString(R.string.play_store_direct_link_blue))));
@@ -25,7 +26,7 @@ public class DonateActivity extends AppCompatActivity {
         }
     }
 
-    public void goToRedLink(View view){
+    public void goToRedLink(View view) {
         try {
             startActivity(new Intent(Intent.ACTION_VIEW,
                     Uri.parse(getString(R.string.play_store_direct_link_red))));
@@ -35,7 +36,7 @@ public class DonateActivity extends AppCompatActivity {
         }
     }
 
-    public void goToBlackLink(View view){
+    public void goToBlackLink(View view) {
         try {
             startActivity(new Intent(Intent.ACTION_VIEW,
                     Uri.parse(getString(R.string.play_store_direct_link_black))));

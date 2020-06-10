@@ -1,7 +1,6 @@
 package com.amandfarrell.www.changecalculator;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -11,19 +10,16 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-
     private Boolean mIgnoreNextTextChange = false;
-
     private EditText mTotalEditText;
     private EditText mCashEditText;
-
     private TextView mChangeDueTextView;
-
-    //Dollar denomination TextViews
-    private TextView mTwenty;
+    private TextView mTwenty; //Dollar denomination TextViews
     private TextView mTen;
     private TextView mFive;
     private TextView mOne;
@@ -31,10 +27,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView mDime;
     private TextView mNickel;
     private TextView mPenny;
-
     private int mDollarDenom[] = {2000, 1000, 500, 100, 25, 10, 5, 1};
     private TextView mDollarTextViews[];
-
     private int mTotal = 0;
     private int mCash = 0;
     private int mChangeDue = 0;
@@ -43,10 +37,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         mTotalEditText = (EditText) findViewById(R.id.total);
         mCashEditText = (EditText) findViewById(R.id.cash);
-
         mChangeDueTextView = (TextView) findViewById(R.id.change_due);
         mTwenty = (TextView) findViewById(R.id.twenty);
         mTen = (TextView) findViewById(R.id.ten);
@@ -56,17 +48,13 @@ public class MainActivity extends AppCompatActivity {
         mDime = (TextView) findViewById(R.id.dime);
         mNickel = (TextView) findViewById(R.id.nickel);
         mPenny = (TextView) findViewById(R.id.penny);
-
         mDollarTextViews = new TextView[]{mTwenty, mTen, mFive, mOne, mQuarter, mDime, mNickel, mPenny};
-
         //All the text should be selected when the text box is tapped
         mTotalEditText.setSelectAllOnFocus(true);
         mCashEditText.setSelectAllOnFocus(true);
-
         //Listen for changes to text so the formatting can be updated to match the changes
         mTotalEditText.addTextChangedListener(totalTextWatcher);
         mCashEditText.addTextChangedListener(cashTextWatcher);
-
         //Start all bills and coins at 0
         mTwenty.setText("0");
         mTen.setText("0");
@@ -90,6 +78,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_donate:
                 Intent intent = new Intent(MainActivity.this, DonateActivity.class);
                 startActivity(intent);
+            case R.id.action_upgrade:
+                Intent intentUpgrade = new Intent(MainActivity.this, DonateActivity.class);
+                startActivity(intentUpgrade);
         }
         return super.onOptionsItemSelected(item);
     }
@@ -101,14 +92,12 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
             if (mIgnoreNextTextChange) {
                 mIgnoreNextTextChange = false;
                 return;
             } else {
                 mIgnoreNextTextChange = true;
             }
-
             try {
                 String totalStr = mTotalEditText.getText().toString();
                 totalStr = totalStr.replaceAll("[$.]", "");
@@ -121,11 +110,9 @@ public class MainActivity extends AppCompatActivity {
                         + String.format(Locale.ENGLISH, "%.2f", mTotal / 100.0);
                 mTotalEditText.setText(totalStr);
                 mTotalEditText.setSelection(mTotalEditText.getText().length());
-
                 calculateChangeDue();
             } catch (Exception e) {
                 Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
-
                 mTotal = 0;
                 mTotalEditText.setText(R.string.zeroCurrency);
             }
@@ -139,7 +126,6 @@ public class MainActivity extends AppCompatActivity {
     private TextWatcher cashTextWatcher = new TextWatcher() {
         @Override
         public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
         }
 
         @Override
@@ -151,7 +137,6 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 mIgnoreNextTextChange = true;
             }
-
             try {
                 String cashStr = mCashEditText.getText().toString();
                 cashStr = cashStr.replaceAll("[$.]", "");
@@ -163,14 +148,10 @@ public class MainActivity extends AppCompatActivity {
                 cashStr = getResources().getString(R.string.currency_symbol)
                         + String.format(Locale.ENGLISH, "%.2f", mCash / 100.0);
                 mCashEditText.setText(cashStr);
-
-                //Todo remove?
                 mCashEditText.setSelection(mCashEditText.getText().length());
-
                 calculateChangeDue();
             } catch (Exception e) {
                 Toast.makeText(getBaseContext(), R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
-
                 mCash = 0;
                 mCashEditText.setText(R.string.zeroCurrency);
             }
@@ -193,10 +174,8 @@ public class MainActivity extends AppCompatActivity {
             for (int i = 0; i < mDollarDenom.length; i++) {
                 bills = mChangeDue / mDollarDenom[i];
                 mDollarTextViews[i].setText(Integer.toString(bills));
-
                 mChangeDue = mChangeDue % mDollarDenom[i];
             }
-
         } else {
             mTwenty.setText("0");
             mTen.setText("0");

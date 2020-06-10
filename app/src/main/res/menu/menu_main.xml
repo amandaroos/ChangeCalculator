@@ -6,6 +6,12 @@
         android:id="@+id/action_donate"
         android:title="@string/action_donate"
         android:icon="@drawable/icon_donate"
-        app:showAsAction="always" />
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_upgrade"
+        android:title="@string/action_upgrade"
+        android:icon="@drawable/icon_donate"
+        app:showAsAction="never" />
 
 </menu>
