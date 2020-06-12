@@ -10,7 +10,7 @@
 
     <item
         android:id="@+id/action_upgrade"
-        android:title="@string/action_upgrade"
+        android:title="@string/upgrade"
         android:icon="@drawable/icon_donate"
         app:showAsAction="never" />
 

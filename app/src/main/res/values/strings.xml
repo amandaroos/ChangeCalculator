@@ -32,6 +32,9 @@
     <string name="donate_message">My name is Amanda.</string>
     <string name="donate_message2"> If you are enjoying this app I developed, please consider purchasing my donation app.</string>
     <string name="donate_message3"> The donation app does not do anything, but your donation will show me that my time spent developing free, no-ads apps is appreciated.</string>
+    <string name="upgrade_message2"> If you are enjoying this app I developed, please consider purchasing my upgrade app.</string>
+    <string name="upgrade_message3"> The upgrade app includes checkboxes for marking
+        when you run out of bills or coins, and your purchase will show me that my time spent developing free, no-ads apps is appreciated.</string>
     <string name="donate_thanks"> Thanks!</string>
     <string name="play_store_direct_link_blue" translatable="false">market://details?id=com.amandafarrell.www.donationfordeveloper_blue</string>
     <string name="play_store_browser_link_blue" translatable="false">https://play.google.com/store/apps/details?id=com.amandafarrell.www.donationfordeveloper_blue</string>
@@ -42,5 +45,7 @@
     <string name="small">Small</string>
     <string name="medium">Medium</string>
     <string name="large">Large</string>
-    <string name="action_upgrade">Upgrade</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="play_store_browser_link_upgrade" translatable="false">https://play.google.com/store/apps/details?id=com.amandafarrell.www.changecalculatorpaid</string>
+    <string name="play_store_direct_link_upgrade" translatable="false">market://details?id=com.amandafarrell.www.changecalculatorpaid</string>
 </resources>

@@ -78,9 +78,11 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_donate:
                 Intent intent = new Intent(MainActivity.this, DonateActivity.class);
                 startActivity(intent);
+                break;
             case R.id.action_upgrade:
-                Intent intentUpgrade = new Intent(MainActivity.this, DonateActivity.class);
+                Intent intentUpgrade = new Intent(MainActivity.this, UpgradeActivity.class);
                 startActivity(intentUpgrade);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
