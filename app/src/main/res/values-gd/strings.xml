@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Iomlan</string> 
+    <string name="donate_message">Is e m ’ainm Amanda.</string> 
+    <string name="donate_message2">Ma tha an aplacaid seo a leasaich mi a ’còrdadh riut, smaoinich air an app tabhartais agam a cheannach.</string> 
+    <string name="donate_message3">Cha bhith an aplacaid tabhartais a ’dèanamh dad, ach seallaidh an tabhartas agad dhomh gu bheil mi a’ cur luach air an ùine a chuir mi seachad a ’leasachadh aplacaidean gun shanasan an-asgaidh.</string> 
+    <string name="donate_thanks">Mòran taing!</string> 
+    <string name="small">Beag</string> 
+    <string name="medium">Meadhanach</string> 
+    <string name="large">Mòr</string> 
+    <string name="small_heart">cridhe beag</string> 
+    <string name="medium_heart">cridhe meadhanach</string> 
+    <string name="large_heart">cridhe mòr</string> 
+    <string name="action_donate">Thoir seachad don leasaiche</string> 
+    <string name="donate_title">Thoir seachad</string> 
+    <string name="donate_greeting">Halò!</string> 
+    <string name="upgrade_message2">Ma tha an aplacaid seo a leasaich mi a ’còrdadh riut, feuch an ceannaich thu an app ùrachadh agam.</string> 
+    <string name="upgrade_message3">Tha an app ùrachadh a ’toirt a-steach bogsaichean seic airson a bhith a’ comharrachadh nuair a ruitheas tu a-mach à bilean no buinn, agus seallaidh an ceannach agad dhomh gu bheil meas air an ùine a chuir mi seachad a ’leasachadh aplacaidean gun shanasan an-asgaidh.</string> 
+    <string name="cash">Airgead</string> 
+    <string name="change_due">Atharraich ri phàigheadh</string> 
+    <string name="bills">Bilean</string> 
+    <string name="large_number_error_toast">Mearachd: tha an àireamh ro mhòr</string> 
+    <string name="upgrade">Ùrachadh</string> 
+    <string name="coins">Boinn</string> 
+    <string name="app_name">Atharraich àireamhair</string> 
+ </resources>

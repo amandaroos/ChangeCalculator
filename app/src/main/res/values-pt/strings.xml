@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Meu nome é Amanda.</string> 
+    <string name="donate_message2">Se você está gostando deste aplicativo que desenvolvi, considere comprar meu aplicativo de doação.</string> 
+    <string name="donate_message3">O aplicativo de doação não faz nada, mas sua doação me mostrará que meu tempo gasto no desenvolvimento de aplicativos gratuitos e sem anúncios é apreciado.</string> 
+    <string name="donate_thanks">Obrigada!</string> 
+    <string name="small">Pequena</string> 
+    <string name="medium">Média</string> 
+    <string name="large">ampla</string> 
+    <string name="small_heart">Coração pequeno</string> 
+    <string name="medium_heart">coração médio</string> 
+    <string name="large_heart">coração grande</string> 
+    <string name="action_donate">Doar para o desenvolvedor</string> 
+    <string name="donate_title">Doar</string> 
+    <string name="donate_greeting">Olá!</string> 
+    <string name="upgrade_message2">Se você está gostando deste aplicativo que desenvolvi, considere comprar meu aplicativo de atualização.</string> 
+    <string name="upgrade_message3">O aplicativo de atualização inclui caixas de seleção para marcar quando você ficar sem notas ou moedas, e sua compra me mostrará que meu tempo gasto no desenvolvimento de aplicativos gratuitos e sem anúncios é apreciado.</string> 
+    <string name="cash">Dinheiro</string> 
+    <string name="change_due">Alteração devida</string> 
+    <string name="bills">Contas</string> 
+    <string name="large_number_error_toast">Erro: o número é muito grande</string> 
+    <string name="upgrade">Melhoria</string> 
+    <string name="coins">Moedas</string> 
+    <string name="app_name">Change Calculator</string> 
+ </resources>

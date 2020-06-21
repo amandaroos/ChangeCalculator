@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Gesamt</string> 
+    <string name="donate_message">Ich heiße Amanda.</string> 
+    <string name="donate_message2">Wenn Ihnen diese von mir entwickelte App gefällt, sollten Sie meine Spenden-App kaufen.</string> 
+    <string name="donate_message3">Die Spenden-App macht nichts, aber Ihre Spende zeigt mir, dass meine Zeit für die Entwicklung kostenloser Apps ohne Werbung geschätzt wird.</string> 
+    <string name="donate_thanks">Vielen Dank!</string> 
+    <string name="small">Klein</string> 
+    <string name="medium">Mittel</string> 
+    <string name="large">Groß</string> 
+    <string name="small_heart">kleines Herz</string> 
+    <string name="medium_heart">mittleres Herz</string> 
+    <string name="large_heart">großes Herz</string> 
+    <string name="action_donate">Spende an den Entwickler</string> 
+    <string name="donate_title">Spenden</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="upgrade_message2">Wenn Ihnen diese von mir entwickelte App gefällt, sollten Sie meine Upgrade-App kaufen.</string> 
+    <string name="upgrade_message3">Die Upgrade-App enthält Kontrollkästchen zum Markieren, wenn Ihnen die Rechnungen oder Münzen ausgehen. Ihr Kauf zeigt mir, dass meine Zeit für die Entwicklung kostenloser Apps ohne Werbung geschätzt wird.</string> 
+    <string name="cash">Kasse</string> 
+    <string name="change_due">Änderung fällig</string> 
+    <string name="bills">Rechnungen</string> 
+    <string name="large_number_error_toast">Fehler: Anzahl ist zu groß</string> 
+    <string name="upgrade">Aktualisierung</string> 
+    <string name="coins">Münzen</string> 
+    <string name="app_name">Rechner ändern</string> 
+ </resources>

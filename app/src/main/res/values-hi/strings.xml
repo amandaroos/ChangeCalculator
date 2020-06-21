@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">संपूर्ण</string> 
+    <string name="donate_message">मेरा नाम अमांडा है।</string> 
+    <string name="donate_message2">यदि आप मेरे द्वारा विकसित इस ऐप का आनंद ले रहे हैं, तो कृपया मेरे दान ऐप को खरीदने पर विचार करें।</string> 
+    <string name="donate_message3">दान ऐप कुछ भी नहीं करता है, लेकिन आपका दान मुझे दिखाएगा कि मेरा समय मुफ्त विकसित करने में बिताया गया है, कोई भी विज्ञापन ऐप्स की सराहना नहीं की जाती है।</string> 
+    <string name="donate_thanks">धन्यवाद!</string> 
+    <string name="small">छोटा</string> 
+    <string name="medium">मध्यम</string> 
+    <string name="large">विशाल</string> 
+    <string name="small_heart">छोटा दिल</string> 
+    <string name="medium_heart">मध्यम दिल</string> 
+    <string name="large_heart">बड़ा दिल</string> 
+    <string name="action_donate">डेवलपर को दान करें</string> 
+    <string name="donate_title">दान करना</string> 
+    <string name="donate_greeting">हैलो!</string> 
+    <string name="upgrade_message2">यदि आप मेरे द्वारा विकसित इस ऐप का आनंद ले रहे हैं, तो कृपया मेरे अपग्रेड ऐप को खरीदने पर विचार करें।</string> 
+    <string name="upgrade_message3">जब आप बिल या सिक्कों से बाहर निकलते हैं, तो अपग्रेड ऐप में मार्किंग के लिए चेकबॉक्स शामिल होते हैं, और आपकी खरीद मुझे दिखाएगी कि मेरा समय मुफ्त विकसित करने में बिताया गया है, नो-ऐड ऐप्स की सराहना की जाती है।</string> 
+    <string name="cash">नकद</string> 
+    <string name="change_due">बचे हुए छुट्टे</string> 
+    <string name="bills">विधेयकों</string> 
+    <string name="large_number_error_toast">त्रुटि: संख्या बहुत बड़ी है</string> 
+    <string name="upgrade">अपग्रेड</string> 
+    <string name="coins">सिक्के</string> 
+    <string name="app_name">कैलकुलेटर बदलें</string> 
+ </resources>

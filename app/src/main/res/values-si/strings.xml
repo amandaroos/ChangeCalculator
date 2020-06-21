@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">සමස්ත</string> 
+    <string name="donate_message">මගේ නම අමන්දා.</string> 
+    <string name="donate_message2">මා විසින් වර්ධනය කරන ලද මෙම යෙදුම ඔබ භුක්ති විඳිනවා නම්, කරුණාකර මගේ පරිත්‍යාග යෙදුම මිලදී ගැනීම ගැන සලකා බලන්න.</string> 
+    <string name="donate_message3">පරිත්යාග කිරීමේ යෙදුම කිසිවක් නොකරයි, නමුත් නොමිලේ, දැන්වීම් නොමැති යෙදුම් සංවර්ධනය කිරීම සඳහා මා ගත කළ කාලය අගය කරන බව ඔබේ පරිත්යාගයෙන් මට පෙන්වනු ඇත.</string> 
+    <string name="donate_thanks">ස්තූතියි!</string> 
+    <string name="small">කුඩා</string> 
+    <string name="medium">මධ්යම</string> 
+    <string name="large">මහා</string> 
+    <string name="small_heart">කුඩා හදවත</string> 
+    <string name="medium_heart">මධ්යම හදවත</string> 
+    <string name="large_heart">විශාල හදවතක්</string> 
+    <string name="action_donate">සංවර්ධකයාට පරිත්‍යාග කරන්න</string> 
+    <string name="donate_title">පරිත්යාග කරන්න</string> 
+    <string name="donate_greeting">හෙලෝ!</string> 
+    <string name="upgrade_message2">මා විසින් වර්ධනය කරන ලද මෙම යෙදුම ඔබ භුක්ති විඳිනවා නම්, කරුණාකර මගේ උත්ශ්‍රේණිගත යෙදුම මිලදී ගැනීම ගැන සලකා බලන්න.</string> 
+    <string name="upgrade_message3">උත්ශ්‍රේණිගත කිරීමේ යෙදුමට ඔබ බිල්පත් හෝ කාසි ඉවර වූ විට සලකුණු කිරීම සඳහා පිරික්සුම් කොටු ඇතුළත් වන අතර, නොමිලේ, දැන්වීම් රහිත යෙදුම් සංවර්ධනය කිරීමට මා ගත කළ කාලය අගය කරන බව ඔබේ මිලදී ගැනීම මට පෙන්වයි.</string> 
+    <string name="cash">මුදල්</string> 
+    <string name="change_due">නියමිත කාලය වෙනස් කරන්න</string> 
+    <string name="bills">බිල්පත්</string> 
+    <string name="large_number_error_toast">දෝෂය: අංකය ඉතා විශාලය</string> 
+    <string name="upgrade">උත්ශ්‍රේණි කරන්න</string> 
+    <string name="coins">කාසි</string> 
+    <string name="app_name">කැල්කියුලේටරය වෙනස් කරන්න</string> 
+ </resources>

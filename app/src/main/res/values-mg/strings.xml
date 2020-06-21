@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Amanda no anarako.</string> 
+    <string name="donate_message2">Raha mankafy an\'io fampiharana novolavolako io ianao, dia mba iangaviana ny fividianana ny rindran-tsoratro.</string> 
+    <string name="donate_message3">Tsy manao na inona na inona ny fampiharana ny fanomezana, fa ny fanomezana ataonao dia hampiseho ahy fa ny fotoanako dia mivelatra maimaim-poana, tsy misy ny doka misy.</string> 
+    <string name="donate_thanks">Misaotra</string> 
+    <string name="small">Small</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Large</string> 
+    <string name="small_heart">fo kely</string> 
+    <string name="medium_heart">ny fo antonony</string> 
+    <string name="large_heart">fo be</string> 
+    <string name="action_donate">Pejy</string> 
+    <string name="donate_title">Manomeza</string> 
+    <string name="donate_greeting">Salama!</string> 
+    <string name="upgrade_message2">Raha mankafy an\'io fampiharana novolavolako io ianao, azafady mba eritrereto ny fividianana ny fampiharana fanavaozana ataoko.</string> 
+    <string name="upgrade_message3">Ny fampiharana fanavaozana dia misy ny boaty fanamarihana ho an\'ny marika rehefa lany vola amin\'ny vola andoavambola ianao, ary ny fividiananao dia haneho ahy fa ny fotoanako dia mivoatra maimaimpoana, fampiharana tsy misy doka no ankasitrahana.</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Miovaova</string> 
+    <string name="bills">Bills</string> 
+    <string name="large_number_error_toast">Hadisoana: be loatra ny isa</string> 
+    <string name="upgrade">hanatsarana</string> 
+    <string name="coins">vola madinika</string> 
+    <string name="app_name">Change Kalkulator</string> 
+ </resources>

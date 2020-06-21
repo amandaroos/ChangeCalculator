@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">totale</string> 
+    <string name="donate_message">My naam is Amanda.</string> 
+    <string name="donate_message2">As u van hierdie program geniet wat ek ontwikkel het, oorweeg dit dan om my skenking-app te koop.</string> 
+    <string name="donate_message3">Die donasie-app doen niks nie, maar u skenking sal my wys dat my tyd spandeer aan die ontwikkeling van gratis apps sonder advertensies waardeer word.</string> 
+    <string name="donate_thanks">Dankie</string> 
+    <string name="small">klein</string> 
+    <string name="medium">medium</string> 
+    <string name="large">groot</string> 
+    <string name="small_heart">klein hartjie</string> 
+    <string name="medium_heart">medium hart</string> 
+    <string name="large_heart">groot hart</string> 
+    <string name="action_donate">Skenk aan die ontwikkelaar</string> 
+    <string name="donate_title">skenk</string> 
+    <string name="donate_greeting">Hello!</string> 
+    <string name="upgrade_message2">As u van hierdie program geniet wat ek ontwikkel het, oorweeg dit dan om my opgraderingsprogram te koop.</string> 
+    <string name="upgrade_message3">Die opgradering-app bevat merkblokkies vir nasien wanneer u nie rekeninge of muntstukke het nie, en u aankoop sal my wys dat my tyd spandeer aan die ontwikkeling van gratis apps sonder advertensies waardeer word.</string> 
+    <string name="cash">kontant</string> 
+    <string name="change_due">Verandering verskuldig</string> 
+    <string name="bills">rekeninge</string> 
+    <string name="large_number_error_toast">Fout: nommer is te groot</string> 
+    <string name="upgrade">gradeer</string> 
+    <string name="coins">munte</string> 
+    <string name="app_name">Verander sakrekenaar</string> 
+ </resources>

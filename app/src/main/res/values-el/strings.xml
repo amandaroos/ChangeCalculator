@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Σύνολο</string> 
+    <string name="donate_message">Το όνομά μου είναι Amanda.</string> 
+    <string name="donate_message2">Εάν απολαμβάνετε αυτήν την εφαρμογή που ανέπτυξα, σκεφτείτε να αγοράσετε την εφαρμογή δωρεάς μου.</string> 
+    <string name="donate_message3">Η εφαρμογή δωρεάς δεν κάνει τίποτα, αλλά η δωρεά σας θα μου δείξει ότι εκτιμάται ο χρόνος που πέρασα για την ανάπτυξη δωρεάν εφαρμογών χωρίς διαφημίσεις.</string> 
+    <string name="donate_thanks">Ευχαριστώ!</string> 
+    <string name="small">Μικρό</string> 
+    <string name="medium">Μεσαίο</string> 
+    <string name="large">Μεγάλο</string> 
+    <string name="small_heart">μικρή καρδιά</string> 
+    <string name="medium_heart">μεσαία καρδιά</string> 
+    <string name="large_heart">μεγάλη καρδιά</string> 
+    <string name="action_donate">Δωρεά στον προγραμματιστή</string> 
+    <string name="donate_title">Προσφέρω</string> 
+    <string name="donate_greeting">Γειά σου!</string> 
+    <string name="upgrade_message2">Εάν απολαμβάνετε αυτήν την εφαρμογή που ανέπτυξα, σκεφτείτε να αγοράσετε την εφαρμογή αναβάθμισής μου.</string> 
+    <string name="upgrade_message3">Η εφαρμογή αναβάθμισης περιλαμβάνει πλαίσια ελέγχου για σήμανση όταν εξαντλείται λογαριασμοί ή νομίσματα και η αγορά σας θα μου δείξει ότι εκτιμάται ο χρόνος που αφιέρωσα στην ανάπτυξη δωρεάν εφαρμογών χωρίς διαφημίσεις.</string> 
+    <string name="cash">Μετρητά</string> 
+    <string name="change_due">Να αλλάξει λόγω</string> 
+    <string name="bills">Λογαριασμοί</string> 
+    <string name="large_number_error_toast">Σφάλμα: ο αριθμός είναι πολύ μεγάλος</string> 
+    <string name="upgrade">Αναβαθμίζω</string> 
+    <string name="coins">Νομίσματα</string> 
+    <string name="app_name">Αλλαγή αριθμομηχανής</string> 
+ </resources>

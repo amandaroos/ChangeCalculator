@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">ആകെ</string> 
+    <string name="donate_message">എന്റെ പേര് അമണ്ട.</string> 
+    <string name="donate_message2">ഞാൻ വികസിപ്പിച്ച ഈ അപ്ലിക്കേഷൻ നിങ്ങൾ ആസ്വദിക്കുകയാണെങ്കിൽ, ദയവായി എന്റെ സംഭാവന അപ്ലിക്കേഷൻ വാങ്ങുന്നത് പരിഗണിക്കുക.</string> 
+    <string name="donate_message3">സംഭാവന അപ്ലിക്കേഷൻ ഒന്നും ചെയ്യുന്നില്ല, എന്നാൽ നിങ്ങളുടെ സംഭാവന എന്നെ കാണിക്കും, സ free ജന്യവും പരസ്യങ്ങളില്ലാത്തതുമായ ആപ്ലിക്കേഷനുകൾ വികസിപ്പിക്കുന്നതിന് ഞാൻ ചെലവഴിച്ച സമയം വിലമതിക്കപ്പെടുന്നു.</string> 
+    <string name="donate_thanks">നന്ദി!</string> 
+    <string name="small">ചെറുത്</string> 
+    <string name="medium">ഇടത്തരം</string> 
+    <string name="large">വലുത്</string> 
+    <string name="small_heart">ചെറിയ ഹൃദയം</string> 
+    <string name="medium_heart">ഇടത്തരം ഹൃദയം</string> 
+    <string name="large_heart">വലിയ ഹൃദയം</string> 
+    <string name="action_donate">ഡവലപ്പർക്ക് സംഭാവന ചെയ്യുക</string> 
+    <string name="donate_title">സംഭാവനചെയ്യുക</string> 
+    <string name="donate_greeting">ഹലോ!</string> 
+    <string name="upgrade_message2">ഞാൻ വികസിപ്പിച്ച ഈ അപ്ലിക്കേഷൻ നിങ്ങൾ ആസ്വദിക്കുകയാണെങ്കിൽ, ദയവായി എന്റെ അപ്‌ഗ്രേഡ് അപ്ലിക്കേഷൻ വാങ്ങുന്നത് പരിഗണിക്കുക.</string> 
+    <string name="upgrade_message3">അപ്‌ഗ്രേഡ് ആപ്ലിക്കേഷനിൽ നിങ്ങൾ ബില്ലുകളോ നാണയങ്ങളോ തീർന്നുപോകുമ്പോൾ അടയാളപ്പെടുത്തുന്നതിനുള്ള ചെക്ക്ബോക്സുകൾ ഉൾപ്പെടുന്നു, കൂടാതെ നിങ്ങളുടെ വാങ്ങൽ എന്നെ സ free ജന്യവും പരസ്യങ്ങളില്ലാത്തതുമായ ആപ്ലിക്കേഷനുകൾ വികസിപ്പിക്കുന്നതിന് ചെലവഴിച്ച സമയം കാണിക്കും.</string> 
+    <string name="cash">പണം</string> 
+    <string name="change_due">ഡ്യൂ മാറ്റുക</string> 
+    <string name="bills">ബില്ലുകൾ</string> 
+    <string name="large_number_error_toast">പിശക്: നമ്പർ വളരെ വലുതാണ്</string> 
+    <string name="upgrade">നവീകരിക്കുക</string> 
+    <string name="coins">നാണയങ്ങൾ</string> 
+    <string name="app_name">കാൽക്കുലേറ്റർ മാറ്റുക</string> 
+ </resources>

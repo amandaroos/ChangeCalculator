@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">សរុប</string> 
+    <string name="donate_message">ខ្ញុំឈ្មោះអាម៉ាន់ដា។</string> 
+    <string name="donate_message2">ប្រសិនបើអ្នកកំពុងរីករាយនឹងកម្មវិធីនេះដែលខ្ញុំបានបង្កើតសូមពិចារណាទិញកម្មវិធីបរិច្ចាគរបស់ខ្ញុំ។</string> 
+    <string name="donate_message3">កម្មវិធីបរិច្ចាគមិនធ្វើអ្វីទេប៉ុន្តែការបរិច្ចាគរបស់អ្នកនឹងបង្ហាញខ្ញុំថាពេលវេលាដែលខ្ញុំចំណាយដើម្បីអភិវឌ្ឍដោយឥតគិតថ្លៃកម្មវិធីគ្មានការផ្សាយពាណិជ្ជកម្មត្រូវបានគេកោតសរសើរ។</string> 
+    <string name="donate_thanks">សូមអរគុណ!</string> 
+    <string name="small">តូច</string> 
+    <string name="medium">មធ្យម</string> 
+    <string name="large">ធំ</string> 
+    <string name="small_heart">បេះដូងតូច</string> 
+    <string name="medium_heart">បេះដូងមធ្យម</string> 
+    <string name="large_heart">បេះដូងធំ</string> 
+    <string name="action_donate">បរិច្ចាគដល់អ្នកអភិវឌ្ឍន៍</string> 
+    <string name="donate_title">បរិច្ចាគ</string> 
+    <string name="donate_greeting">សួស្តី!</string> 
+    <string name="upgrade_message2">ប្រសិនបើអ្នកកំពុងរីករាយនឹងកម្មវិធីនេះដែលខ្ញុំបានបង្កើតសូមពិចារណាទិញកម្មវិធីធ្វើឱ្យប្រសើររបស់ខ្ញុំ។</string> 
+    <string name="upgrade_message3">កម្មវិធីធ្វើឱ្យប្រសើរឡើងរួមបញ្ចូលទាំងប្រអប់ធីកសម្រាប់សម្គាល់នៅពេលអ្នកអស់វិក័យប័ត្រឬកាក់ហើយការទិញរបស់អ្នកនឹងបង្ហាញខ្ញុំថាពេលវេលាដែលខ្ញុំចំណាយដើម្បីអភិវឌ្ឍដោយឥតគិតថ្លៃកម្មវិធីគ្មានការផ្សាយពាណិជ្ជកម្មត្រូវបានគេកោតសរសើរ។</string> 
+    <string name="cash">សាច់ប្រាក់</string> 
+    <string name="change_due">ផ្លាស់ប្តូរដោយសារ</string> 
+    <string name="bills">វិក័យប័ត្រ</string> 
+    <string name="large_number_error_toast">កំហុស៖ ចំនួនធំពេក</string> 
+    <string name="upgrade">ធ្វើឱ្យប្រសើរឡើង</string> 
+    <string name="coins">កាក់</string> 
+    <string name="app_name">ផ្លាស់ប្តូរម៉ាស៊ីនគណនា</string> 
+ </resources>

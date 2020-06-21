@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">कुल</string> 
+    <string name="donate_message">मेरो नाम अमांडा हो।</string> 
+    <string name="donate_message2">यदि तपाईं मैले विकसित गरेको यो अनुप्रयोगको आनन्द लिइरहनु भएको छ भने, कृपया मेरो दान अनुप्रयोग खरीद गर्ने विचार गर्नुहोस्।</string> 
+    <string name="donate_message3">दान अनुप्रयोगले केहि गर्दैन, तर तपाईंको दानले मलाई देखाउँदछ कि मेरो समय नि: शुल्क, कुनै विज्ञापन विज्ञापन अनुप्रयोगहरूको विकास गर्नमा खर्च भयो।</string> 
+    <string name="donate_thanks">धन्यवाद!</string> 
+    <string name="small">सानो</string> 
+    <string name="medium">मध्यम</string> 
+    <string name="large">ठूलो</string> 
+    <string name="small_heart">सानो मुटु</string> 
+    <string name="medium_heart">मध्यम मुटु</string> 
+    <string name="large_heart">ठूलो मुटु</string> 
+    <string name="action_donate">विकासकर्तालाई दान दिनुहोस्</string> 
+    <string name="donate_title">दान गर्नुहोस्</string> 
+    <string name="donate_greeting">नमस्कार!</string> 
+    <string name="upgrade_message2">यदि तपाईं मैले विकसित गरेको यो अनुप्रयोगको आनन्द लिइरहनु भएको छ भने, कृपया मेरो अपग्रेड अनुप्रयोग खरीद गर्न विचार गर्नुहोस्।</string> 
+    <string name="upgrade_message3">अपग्रेड अनुप्रयोगले मार्कको लागि चेकबक्सहरू समावेश गर्दछ जब तपाईं बिलहरू वा सिक्काको अन्त्य गर्नुहुन्छ, र तपाईंको खरीदले मलाई देखाउँदछ कि मेरो समय नि: शुल्क, कुनै विज्ञापन विज्ञापन अनुप्रयोगहरूको विकास गर्नमा खर्च भयो।</string> 
+    <string name="cash">नगद</string> 
+    <string name="change_due">परिवर्तनको कारण</string> 
+    <string name="bills">बिलहरू</string> 
+    <string name="large_number_error_toast">त्रुटि: संख्या धेरै ठूलो छ</string> 
+    <string name="upgrade">अपग्रेड गर्नुहोस्</string> 
+    <string name="coins">सिक्का</string> 
+    <string name="app_name">क्यालकुलेटर परिवर्तन गर्नुहोस्</string> 
+ </resources>

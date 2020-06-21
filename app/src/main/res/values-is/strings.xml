@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Samtals</string> 
+    <string name="donate_message">Ég heiti Amanda.</string> 
+    <string name="donate_message2">Ef þú hefur gaman af þessu forriti sem ég þróaði skaltu íhuga að kaupa framlagsforritið mitt.</string> 
+    <string name="donate_message3">Framlagsforritið gerir ekki neitt en framlag þitt mun sýna mér að tími minn sem varið hefur í að þróa ókeypis forrit án auglýsinga er vel þeginn.</string> 
+    <string name="donate_thanks">Takk!</string> 
+    <string name="small">Lítil</string> 
+    <string name="medium">Miðlungs</string> 
+    <string name="large">Stór</string> 
+    <string name="small_heart">lítið hjarta</string> 
+    <string name="medium_heart">miðlungs hjarta</string> 
+    <string name="large_heart">stórt hjarta</string> 
+    <string name="action_donate">Gefa til þróunaraðila</string> 
+    <string name="donate_title">Gefa</string> 
+    <string name="donate_greeting">Halló!</string> 
+    <string name="upgrade_message2">Ef þú hefur gaman af þessu forriti sem ég þróaði skaltu íhuga að kaupa uppfærsluforritið mitt.</string> 
+    <string name="upgrade_message3">Uppfærsluforritið inniheldur gátreitina til að merkja þegar upp er staðið á víxlum eða myntum og kaupin þín sýna mér að tími minn í að þróa ókeypis forrit án auglýsinga er vel þeginn.</string> 
+    <string name="cash">Handbært fé</string> 
+    <string name="change_due">Breyting vegna</string> 
+    <string name="bills">Víxlar</string> 
+    <string name="large_number_error_toast">Villa: númerið er of stórt</string> 
+    <string name="upgrade">Uppfærsla</string> 
+    <string name="coins">Mynt</string> 
+    <string name="app_name">Breyta reiknivél</string> 
+ </resources>

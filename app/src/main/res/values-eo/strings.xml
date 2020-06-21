@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Entute</string> 
+    <string name="donate_message">Mi nomiĝas Amanda.</string> 
+    <string name="donate_message2">Se vi ĝuas ĉi tiun programon, kiun mi disvolvis, bonvolu konsideri aĉeti mian donacan programon.</string> 
+    <string name="donate_message3">La donita app ne faras ion ajn, sed via donaco montros al mi, ke mia tempo pasigita evoluigante senpagajn, sen reklamajn programojn aprezas.</string> 
+    <string name="donate_thanks">Dankon!</string> 
+    <string name="small">Malgranda</string> 
+    <string name="medium">Meza</string> 
+    <string name="large">Grandaj</string> 
+    <string name="small_heart">malgranda koro</string> 
+    <string name="medium_heart">meza koro</string> 
+    <string name="large_heart">granda koro</string> 
+    <string name="action_donate">Donaci al Ellaboranto</string> 
+    <string name="donate_title">Doni</string> 
+    <string name="donate_greeting">Saluton!</string> 
+    <string name="upgrade_message2">Se vi ĝuas ĉi tiun programon, kiun mi disvolvis, bonvolu konsideri aĉeti mian altgradigan programon.</string> 
+    <string name="upgrade_message3">La ĝisdatiga app inkluzivas markobutonojn por marki kiam vi elĉerpas monbiletojn aŭ monerojn, kaj via aĉeto montros al mi, ke mia tempo pasigita evoluigante senpagajn, sen reklamajn programojn aprezas.</string> 
+    <string name="cash">Kontantmono</string> 
+    <string name="change_due">Ŝanĝi due</string> 
+    <string name="bills">Monbiletoj</string> 
+    <string name="large_number_error_toast">Eraro: nombro estas tro granda</string> 
+    <string name="upgrade">Altgradigon</string> 
+    <string name="coins">Moneroj</string> 
+    <string name="app_name">Ŝanĝu Kalkulilon</string> 
+ </resources>

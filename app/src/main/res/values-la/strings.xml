@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">summa</string> 
+    <string name="donate_message">Meum</string> 
+    <string name="donate_message2">Si vos es usura is app ego developed ponite corda acquirendi donationem meam app.</string> 
+    <string name="donate_message3">Ыктыярдуу тартуу колдонмосу эч нерсе жасабайт, бирок сиздин тартууңуз мага акысыз, жарнамасыз колдонмолорду иштеп чыгууга жумшалганымды көрсөтөт....</string> 
+    <string name="donate_thanks">Gratias</string> 
+    <string name="small">Parvus</string> 
+    <string name="medium">medium</string> 
+    <string name="large">Magna</string> 
+    <string name="small_heart">parvum</string> 
+    <string name="medium_heart">medium</string> 
+    <string name="large_heart">magno</string> 
+    <string name="action_donate">Quaerere</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_greeting">Salve!</string> 
+    <string name="upgrade_message2">Si vos es usura is app ego developed ponite corda acquirendi upgrade meus app.</string> 
+    <string name="upgrade_message3">Өркүндөтүү колдонмосунда векселдер же монеталар түгөнгөндө белгилөө үчүн белгилөө кутучалары камтылган жана сатып алуу мага акысыз, жарнамасыз колдонмолорду иштеп чыгууга жумшалган убактымды баалаарын көрсөтөт....</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Ob</string> 
+    <string name="bills">bills</string> 
+    <string name="large_number_error_toast">Error</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">denarios</string> 
+    <string name="app_name">mutare</string> 
+ </resources>

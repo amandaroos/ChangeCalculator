@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Нийт</string> 
+    <string name="donate_message">Миний нэр Аманда.</string> 
+    <string name="donate_message2">Хэрэв та миний хөгжүүлсэн энэ апп-ыг үзэж байгаа бол хандивын програмаа худалдаж авахаа бодож үзнэ үү.</string> 
+    <string name="donate_message3">Хандивын апп нь юу ч хийдэггүй, гэхдээ таны үнэгүй хандив, цаг хугацаа үнэгүй, зар сурталчилгааны програм хөгжүүлэхэд зарцуулсан цаг хугацаа надад үлдэхгүй гэдгийг харуулах болно.</string> 
+    <string name="donate_thanks">Баярлалаа</string> 
+    <string name="small">Жижиг</string> 
+    <string name="medium">Дунд</string> 
+    <string name="large">Том хэмжээтэй</string> 
+    <string name="small_heart">жижиг зүрх</string> 
+    <string name="medium_heart">дунд зүрх</string> 
+    <string name="large_heart">том зүрх</string> 
+    <string name="action_donate">Хөгжүүлэгчдэд хандив өгөх</string> 
+    <string name="donate_title">Хандив өгөх</string> 
+    <string name="donate_greeting">Сайн уу?</string> 
+    <string name="upgrade_message2">Хэрэв та миний хөгжүүлсэн энэ апп-г үзэж байгаа бол миний шинэчилсэн програмыг худалдаж авах талаар бодож үзнэ үү.</string> 
+    <string name="upgrade_message3">Шинэчлэх апп нь үнэт цаас эсвэл мөнгө дуусах үед тэмдэглэгээ хийх хайрцагуудыг агуулдаг бөгөөд таны худалдан авалт миний цаг үнэгүй, зар сурталчилгаагүй аппуудыг хөгжүүлэхэд зарцуулагдах болно гэдгийг надад харуулах болно.</string> 
+    <string name="cash">Бэлэн мөнгө</string> 
+    <string name="change_due">Хугацаа өөрчлөх</string> 
+    <string name="bills">Тооцооны хуудас</string> 
+    <string name="large_number_error_toast">Алдаа: тоо хэт том байна</string> 
+    <string name="upgrade">Шинэчлэх</string> 
+    <string name="coins">Зоос</string> 
+    <string name="app_name">Тооцоологчийг өөрчлөх</string> 
+ </resources>

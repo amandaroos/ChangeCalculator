@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Усяго</string> 
+    <string name="donate_message">Мяне завуць Аманда.</string> 
+    <string name="donate_message2">Калі вы атрымліваеце асалоду ад гэтага прыкладання, якое я распрацаваў, калі ласка, падумайце аб набыцці майго дадатку на ахвяраванне.</string> 
+    <string name="donate_message3">Дадатак для ахвяраванняў нічога не робіць, але ваша ахвяраванне пакажа мне, што мой час, выдаткаваны на распрацоўку бясплатных, без рэкламы прыкладанняў, высока ацэнены.</string> 
+    <string name="donate_thanks">Дзякуй!</string> 
+    <string name="small">Маленькі</string> 
+    <string name="medium">Сярэдні</string> 
+    <string name="large">Вялікі</string> 
+    <string name="small_heart">маленькае сэрца</string> 
+    <string name="medium_heart">сэрца сярэдняга</string> 
+    <string name="large_heart">вялікае сэрца</string> 
+    <string name="action_donate">Ахвяраваць распрацоўшчыка</string> 
+    <string name="donate_title">Ахвяраваць</string> 
+    <string name="donate_greeting">Добры дзень!</string> 
+    <string name="upgrade_message2">Калі вы атрымліваеце асалоду ад гэтага прыкладання, якое я распрацаваў, калі ласка, падумайце аб набыцці майго прыкладання абнаўлення.</string> 
+    <string name="upgrade_message3">Дадатак для абнаўлення ўключае галачкі для маркіроўкі, калі скончацца купюры ці манеты, і ваша пакупка пакажа мне, што мой час, выдаткаваны на распрацоўку бясплатных, без рэкламы прыкладанняў, высока ацэнены.</string> 
+    <string name="cash">Наяўныя</string> 
+    <string name="change_due">Змена належнага</string> 
+    <string name="bills">Рахункі</string> 
+    <string name="large_number_error_toast">Памылка: колькасць занадта вялікая</string> 
+    <string name="upgrade">Абнавіць</string> 
+    <string name="coins">Манеты</string> 
+    <string name="app_name">Змяніць калькулятар</string> 
+ </resources>

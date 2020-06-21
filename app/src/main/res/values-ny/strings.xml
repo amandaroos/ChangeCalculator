@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Zonse</string> 
+    <string name="donate_message">Dzina langa ndine Ammande.</string> 
+    <string name="donate_message2">Ngati mukusangalala ndi pulogalamuyi yomwe ndidapanga, chonde lingalirani kugula pulogalamu yanga yazopereka.</string> 
+    <string name="donate_message3">Pulogalamu ya zoperekazo sizichita chilichonse, koma zopereka zanu ziziwonetsa kuti nthawi yanga yomwe ndakhala ndikugwiritsa ntchito pulogalamu yaulere, siyabwino.</string> 
+    <string name="donate_thanks">Zikomo!</string> 
+    <string name="small">Zochepa</string> 
+    <string name="medium">Yapakatikati</string> 
+    <string name="large">Chachikulu</string> 
+    <string name="small_heart">mtima wawung\'ono</string> 
+    <string name="medium_heart">mtima wapakati</string> 
+    <string name="large_heart">mtima waukulu</string> 
+    <string name="action_donate">Wonjezerani ku Mapulogalamu</string> 
+    <string name="donate_title">Thandizani</string> 
+    <string name="donate_greeting">Moni!</string> 
+    <string name="upgrade_message2">Ngati mukusangalala ndi pulogalamuyi yomwe ndidapanga, chonde onani kugula pulogalamu yanga yokweza.</string> 
+    <string name="upgrade_message3">Pulogalamuyi yowonjezera ikuphatikiza mabokosi olemba chizindikiro mukamaliza kulipira ngongole kapena ndalama, ndipo kugula kwanu kumandionetsa kuti nthawi yanga yomwe ndakhala ndikugwiritsa ntchito pulogalamu yaulere, siyabwino.</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Sinthani Chifukwa</string> 
+    <string name="bills">Ndalama</string> 
+    <string name="large_number_error_toast">Vuto: chiwerengero ndi chachikulu kwambiri</string> 
+    <string name="upgrade">Sinthani</string> 
+    <string name="coins">Ndalama</string> 
+    <string name="app_name">Sinthani Calculator</string> 
+ </resources>

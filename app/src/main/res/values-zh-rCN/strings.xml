@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">总</string> 
+    <string name="donate_message">我叫阿曼达。</string> 
+    <string name="donate_message2">如果您喜欢我开发的这个应用程序，请考虑购买我的捐赠应用程序。</string> 
+    <string name="donate_message3">捐赠应用程序不做任何事情，但是您的捐赠将告诉我，我花时间开发免费的无广告应用程序受到了赞赏。</string> 
+    <string name="donate_thanks">谢谢！</string> 
+    <string name="small">小</string> 
+    <string name="medium">中</string> 
+    <string name="large">大</string> 
+    <string name="small_heart">小小的心</string> 
+    <string name="medium_heart">中等的心</string> 
+    <string name="large_heart">大心脏</string> 
+    <string name="action_donate">捐赠给开发者</string> 
+    <string name="donate_title">捐</string> 
+    <string name="donate_greeting">你好！</string> 
+    <string name="upgrade_message2">如果您喜欢我开发的这个应用程序，请考虑购买我的升级应用程序。</string> 
+    <string name="upgrade_message3">升级应用程序包含复选框，用于在您的钞票或硬币用完时进行标记，您的购买将向我表明我开发免费的无广告应用程序所花费的时间受到赞赏。</string> 
+    <string name="cash">现金</string> 
+    <string name="change_due">更改到期</string> 
+    <string name="bills">账单</string> 
+    <string name="large_number_error_toast">错误：数量太大</string> 
+    <string name="upgrade">升级</string> 
+    <string name="coins">硬币</string> 
+    <string name="app_name">变更计算器</string> 
+ </resources>

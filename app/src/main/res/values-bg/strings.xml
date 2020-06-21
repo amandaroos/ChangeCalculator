@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Обща сума</string> 
+    <string name="donate_message">Казвам се Аманда.</string> 
+    <string name="donate_message2">Ако се наслаждавате на това приложение, което разработих, моля, помислете за закупуване на моето приложение за дарение.</string> 
+    <string name="donate_message3">Приложението за дарение не прави нищо, но вашето дарение ще ми покаже, че времето ми, прекарано в разработване на безплатни приложения без реклами, се оценява.</string> 
+    <string name="donate_thanks">Благодаря!</string> 
+    <string name="small">малък</string> 
+    <string name="medium">среда</string> 
+    <string name="large">Голям</string> 
+    <string name="small_heart">малко сърце</string> 
+    <string name="medium_heart">средно сърце</string> 
+    <string name="large_heart">голямо сърце</string> 
+    <string name="action_donate">Дарете за програмист</string> 
+    <string name="donate_title">Дарете</string> 
+    <string name="donate_greeting">Здравейте!</string> 
+    <string name="upgrade_message2">Ако се наслаждавате на това приложение, което разработих, моля, помислете за закупуване на моето приложение за надграждане.</string> 
+    <string name="upgrade_message3">Приложението за надграждане включва отметки за маркиране, когато свършите с сметки или монети, и вашата покупка ще ми покаже, че времето ми, прекарано в разработване на безплатни приложения без реклами, се оценява.</string> 
+    <string name="cash">Пари в брой</string> 
+    <string name="change_due">Променете дължимото</string> 
+    <string name="bills">банкноти</string> 
+    <string name="large_number_error_toast">Грешка: числото е твърде голямо</string> 
+    <string name="upgrade">Подобряване на</string> 
+    <string name="coins">монети</string> 
+    <string name="app_name">Промяна на калкулатора</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">합계</string> 
+    <string name="donate_message">제 이름은 아만다입니다.</string> 
+    <string name="donate_message2">내가 개발 한이 앱을 즐기고 있다면 기부 앱 구매를 고려하십시오.</string> 
+    <string name="donate_message3">기부 앱은 아무 것도하지 않지만, 기부금없이 광고없는 무료 앱을 개발하는 데 걸린 시간을 인정합니다.</string> 
+    <string name="donate_thanks">감사!</string> 
+    <string name="small">작은</string> 
+    <string name="medium">매질</string> 
+    <string name="large">큰</string> 
+    <string name="small_heart">작은 마음</string> 
+    <string name="medium_heart">중간 심장</string> 
+    <string name="large_heart">큰 마음</string> 
+    <string name="action_donate">개발자에게 기부</string> 
+    <string name="donate_title">기부</string> 
+    <string name="donate_greeting">여보세요!</string> 
+    <string name="upgrade_message2">내가 개발 한이 앱을 즐기고 있다면 업그레이드 앱 구매를 고려하십시오.</string> 
+    <string name="upgrade_message3">업그레이드 앱에는 청구서 나 동전이 부족할 때 표시하기위한 확인란이 포함되어 있으며, 구매시 무료 광고없는 앱을 개발하는 데 소비 한 시간이 인정된다는 메시지가 표시됩니다.</string> 
+    <string name="cash">현금</string> 
+    <string name="change_due">기한 변경</string> 
+    <string name="bills">청구서</string> 
+    <string name="large_number_error_toast">오류 : 숫자가 너무 큽니다</string> 
+    <string name="upgrade">업그레이드</string> 
+    <string name="coins">동전</string> 
+    <string name="app_name">계산기 변경</string> 
+ </resources>

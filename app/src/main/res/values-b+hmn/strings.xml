@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Tag Nrho</string> 
+    <string name="donate_message">Kuv lub npe hu ua Amanda.</string> 
+    <string name="donate_message2">Yog tias koj tab tom txaus siab rau cov app no Kuv tsim, thov xav yuav kuv cov khoom pub dawb.</string> 
+    <string name="donate_message3">Lub vev xaib pub dawb tsis tau ua dab tsi, tab sis koj txoj kev pub dawb yuav qhia kuv tias kuv lub sijhawm siv sijhawm los tsim kho dawb, tsis muaj kev tshaj tawm cov apps.</string> 
+    <string name="donate_thanks">Ua tsaug!</string> 
+    <string name="small">Me me</string> 
+    <string name="medium">Nruab Nrab</string> 
+    <string name="large">Loj</string> 
+    <string name="small_heart">lub plawv me me</string> 
+    <string name="medium_heart">nruab nrab lub plawv</string> 
+    <string name="large_heart">plawv loj</string> 
+    <string name="action_donate">Pub rau tsim tawm</string> 
+    <string name="donate_title">Pub</string> 
+    <string name="donate_greeting">Nyob zoo!</string> 
+    <string name="upgrade_message2">Yog tias koj tab tom txaus siab rau cov app no Kuv txhim kho, thov xav yuav kuv qhov upgrade app.</string> 
+    <string name="upgrade_message3">Cov khoom siv hloov tshiab suav nrog lub thawv rau kev khij thaum koj tsis dhau daim nqi lossis nyiaj npib, thiab koj qhov kev yuav khoom yuav qhia kuv tias kuv lub sijhawm siv sijhawm txhim kho dawb, tsis muaj tshaj tawm cov apps.</string> 
+    <string name="cash">Nyiaj Ntsuab</string> 
+    <string name="change_due">Hloov Vim Yog</string> 
+    <string name="bills">Cov ntawv sau nqi</string> 
+    <string name="large_number_error_toast">Yuam kev: tus lej loj dhau</string> 
+    <string name="upgrade">Txawj ntxiv</string> 
+    <string name="coins">Npib</string> 
+    <string name="app_name">Hloov Tshuab Xam</string> 
+ </resources>

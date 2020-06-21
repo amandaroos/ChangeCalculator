@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Totale</string> 
+    <string name="donate_message">Mon nom est Amanda.</string> 
+    <string name="donate_message2">Si vous appréciez cette application que j\'ai développée, pensez à acheter mon application de don.</string> 
+    <string name="donate_message3">L\'application de don ne fait rien, mais votre don me montrera que mon temps passé à développer des applications gratuites sans publicité est apprécié.</string> 
+    <string name="donate_thanks">Merci!</string> 
+    <string name="small">Petite</string> 
+    <string name="medium">Moyen</string> 
+    <string name="large">Grande</string> 
+    <string name="small_heart">petit coeur</string> 
+    <string name="medium_heart">coeur moyen</string> 
+    <string name="large_heart">grand coeur</string> 
+    <string name="action_donate">Faire un don au développeur</string> 
+    <string name="donate_title">Faire un don</string> 
+    <string name="donate_greeting">salut!</string> 
+    <string name="upgrade_message2">Si vous appréciez cette application que j\'ai développée, pensez à acheter mon application de mise à niveau.</string> 
+    <string name="upgrade_message3">L\'application de mise à niveau comprend des cases à cocher pour marquer lorsque vous manquez de billets ou de pièces, et votre achat me montrera que mon temps passé à développer des applications gratuites sans publicité est apprécié.</string> 
+    <string name="cash">En espèces</string> 
+    <string name="change_due">Changer en raison</string> 
+    <string name="bills">Factures</string> 
+    <string name="large_number_error_toast">Erreur: le nombre est trop grand</string> 
+    <string name="upgrade">Améliorer</string> 
+    <string name="coins">Pièces de monnaie</string> 
+    <string name="app_name">Changer la calculatrice</string> 
+ </resources>

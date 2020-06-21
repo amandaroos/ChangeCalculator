@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Totaal</string> 
+    <string name="donate_message">Myn namme is Amanda.</string> 
+    <string name="donate_message2">As jo genietsje fan dizze app dy\'t ik ûntwikkele, beskôgje asjebleaft myn donaasjeapp te keapjen.</string> 
+    <string name="donate_message3">De donaasje-app docht neat, mar jo donaasje sil my sjen litte dat myn tiid trochbrocht oan it ûntwikkeljen fan fergese apps sûnder advertinsjes wurdt wurdearre.</string> 
+    <string name="donate_thanks">Tank!</string> 
+    <string name="small">Lyts</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Grut</string> 
+    <string name="small_heart">lyts hert</string> 
+    <string name="medium_heart">medium hert</string> 
+    <string name="large_heart">grut hert</string> 
+    <string name="action_donate">Donearje oan Untwikkelder</string> 
+    <string name="donate_title">Donearje</string> 
+    <string name="donate_greeting">Hoi!</string> 
+    <string name="upgrade_message2">As jo genietsje fan dizze app dy\'t ik ûntwikkele, beskôgje asjebleaft myn upgrade-app te keapjen.</string> 
+    <string name="upgrade_message3">De upgrade-app omfettet karfakjes foar markearjen as jo op rekken fan munten of munten binne, en jo oankeap sil my sjen litte dat myn tiid trochbrocht oan it ûntwikkeljen fan fergese apps sûnder advertinsjes wurdt wurdearre.</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Feroarje Due</string> 
+    <string name="bills">Rekeningen</string> 
+    <string name="large_number_error_toast">Flater: nûmer is te grut</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">Munten</string> 
+    <string name="app_name">Kalkulator feroarje</string> 
+ </resources>

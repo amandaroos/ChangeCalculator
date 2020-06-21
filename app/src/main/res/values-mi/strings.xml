@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Tapeke</string> 
+    <string name="donate_message">Ko Amanda toku ingoa.</string> 
+    <string name="donate_message2">Mena he pai koe ki tenei taupānga kua whakawhanaketia e au, tena koa tirohia mai te hoko i aku taupānga takoha.</string> 
+    <string name="donate_message3">Kaore e mahia e te taupānga takoha, engari ko taau koha e whakaatu mai ka mutu taku waatea ki te whakawhanake koreutu, kaore he panui-a-ringa e manakohia ana.</string> 
+    <string name="donate_thanks">Mihi mai rā!</string> 
+    <string name="small">Itiiti</string> 
+    <string name="medium">Te Waenga</string> 
+    <string name="large">Nui</string> 
+    <string name="small_heart">ngakau iti</string> 
+    <string name="medium_heart">ngākau waenga</string> 
+    <string name="large_heart">ngakau nui</string> 
+    <string name="action_donate">Koha ki te Kaiwhakawhanake</string> 
+    <string name="donate_title">Hohe</string> 
+    <string name="donate_greeting">Kia ora!</string> 
+    <string name="upgrade_message2">Mena he pai koe ki tenei taupānga kua whakawhanakehia e au, tena koa ka whakaarohia te hoko i taku taupānga whakahou.</string> 
+    <string name="upgrade_message3">Kei roto i te taupānga whakahou nga pouakataki mo te tohu ka rere koe i nga nama me nga putea ranei, na to hoko ka whakaatu mai i taku waa ki te whakawhanake i te koreutu, kaore he kaupapa whakatairanga hei whakamana.</string> 
+    <string name="cash">Moni</string> 
+    <string name="change_due">Hurihia te Taha</string> 
+    <string name="bills">Nga Pire</string> 
+    <string name="large_number_error_toast">Hapa: he nui te rahi</string> 
+    <string name="upgrade">Taukaka</string> 
+    <string name="coins">Moni</string> 
+    <string name="app_name">Hurihia Paetatau</string> 
+ </resources>

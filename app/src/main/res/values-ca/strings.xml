@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Em dic Amanda.</string> 
+    <string name="donate_message2">Si gaudiu d\'aquesta aplicació que he desenvolupat, considereu la possibilitat de comprar la meva aplicació de donació.</string> 
+    <string name="donate_message3">L’aplicació de donació no fa res, però la vostra donació em demostrarà que el meu temps dedicat a desenvolupar aplicacions gratuïtes i sense anuncis és molt apreciat.</string> 
+    <string name="donate_thanks">Gràcies!</string> 
+    <string name="small">Petita</string> 
+    <string name="medium">Mitjà</string> 
+    <string name="large">De grans dimensions</string> 
+    <string name="small_heart">cor petit</string> 
+    <string name="medium_heart">cor mitjà</string> 
+    <string name="large_heart">cor gran</string> 
+    <string name="action_donate">Feu una donació al desenvolupador</string> 
+    <string name="donate_title">Donar</string> 
+    <string name="donate_greeting">Hola!</string> 
+    <string name="upgrade_message2">Si gaudiu d\'aquesta aplicació que he desenvolupat, considereu la possibilitat de comprar la meva aplicació d\'actualització.</string> 
+    <string name="upgrade_message3">L’aplicació d’actualització inclou caselles de verificació per marcar quan us quedeu sense factures o monedes i la compra em mostrarà que el meu temps dedicat a desenvolupar aplicacions gratuïtes i sense anuncis és molt apreciat.</string> 
+    <string name="cash">Efectiu</string> 
+    <string name="change_due">Canvi degut</string> 
+    <string name="bills">Bills</string> 
+    <string name="large_number_error_toast">Error: el nombre és massa gran</string> 
+    <string name="upgrade">Actualització</string> 
+    <string name="coins">Monedes</string> 
+    <string name="app_name">Canvia la calculadora</string> 
+ </resources>

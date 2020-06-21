@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Totale</string> 
+    <string name="donate_message">Mi chjamu Amanda.</string> 
+    <string name="donate_message2">Se ti piace sta app chì aghju sviluppatu, per piacè cunsiderate à cumprà a mo app di donazione.</string> 
+    <string name="donate_message3">L\'app di donazione ùn face nunda, ma a vostra donazione vi mostrarà chì u mo tempu passatu sviluppatu gratuitu, no-ads app hè apprezzatu.</string> 
+    <string name="donate_thanks">Grazie!</string> 
+    <string name="small">Picculu</string> 
+    <string name="medium">Mediu</string> 
+    <string name="large">Grande</string> 
+    <string name="small_heart">picculu core</string> 
+    <string name="medium_heart">cori mediu</string> 
+    <string name="large_heart">core grande</string> 
+    <string name="action_donate">Donate à u Sviluppatore</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_greeting">Bonghjornu!</string> 
+    <string name="upgrade_message2">Se ti piace sta app chì aghju sviluppatu, per piacè cunsiderate à cumprà a mo app aghjurnamentu.</string> 
+    <string name="upgrade_message3">The</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Cambia A causa</string> 
+    <string name="bills">Billi</string> 
+    <string name="large_number_error_toast">Errore: u numeru hè troppu grande</string> 
+    <string name="upgrade">Avanzate</string> 
+    <string name="coins">Monete</string> 
+    <string name="app_name">Cambia Calculatrice</string> 
+ </resources>

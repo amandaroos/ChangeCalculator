@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Kabuuan</string> 
+    <string name="donate_message">Ang pangalan ko ay Amanda.</string> 
+    <string name="donate_message2">Kung nasiyahan ka sa app na ito na binuo ko, mangyaring isaalang-alang ang pagbili ng aking donation app.</string> 
+    <string name="donate_message3">Ang app ng donasyon ay walang ginawa, ngunit ang iyong donasyon ay magpapakita sa akin na ang aking oras na ginugol sa pagbuo ng libre, walang mga ad na ad ay pinahahalagahan.</string> 
+    <string name="donate_thanks">Salamat!</string> 
+    <string name="small">Maliit</string> 
+    <string name="medium">Katamtaman</string> 
+    <string name="large">Malaki</string> 
+    <string name="small_heart">maliit na puso</string> 
+    <string name="medium_heart">medium heart</string> 
+    <string name="large_heart">malaking puso</string> 
+    <string name="action_donate">Mag-donate sa Developer</string> 
+    <string name="donate_title">Mag-donate</string> 
+    <string name="donate_greeting">Kamusta!</string> 
+    <string name="upgrade_message2">Kung nasiyahan ka sa app na ito na binuo ko, mangyaring isaalang-alang ang pagbili ng aking pag-upgrade app.</string> 
+    <string name="upgrade_message3">Ang pag-upgrade app ay may kasamang mga checkbox para sa pagmamarka kapag naubusan ka ng mga perang papel o barya, at ipapakita sa akin ng iyong pagbili na ang aking oras na ginugol sa pagbuo ng libre, walang mga ad na ad ay pinahahalagahan.</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Baguhin ang Dahil</string> 
+    <string name="bills">Mga perang papel</string> 
+    <string name="large_number_error_toast">Error: masyadong malaki ang bilang</string> 
+    <string name="upgrade">Mag-upgrade</string> 
+    <string name="coins">Mga barya</string> 
+    <string name="app_name">Baguhin ang Calculator</string> 
+ </resources>

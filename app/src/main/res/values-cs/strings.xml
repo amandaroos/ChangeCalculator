@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Celkový</string> 
+    <string name="donate_message">Jmenuji se Amanda.</string> 
+    <string name="donate_message2">Pokud se vám líbí tato aplikace, kterou jsem vyvinul, zvažte prosím nákup mé aplikace pro darování.</string> 
+    <string name="donate_message3">Aplikace pro darování nic nedělá, ale váš dar mi ukáže, že můj čas strávený vývojem bezplatných aplikací bez reklam je vítán.</string> 
+    <string name="donate_thanks">Dík!</string> 
+    <string name="small">Malý</string> 
+    <string name="medium">Střední</string> 
+    <string name="large">Velký</string> 
+    <string name="small_heart">malé srdce</string> 
+    <string name="medium_heart">střední srdce</string> 
+    <string name="large_heart">velké srdce</string> 
+    <string name="action_donate">Darujte vývojáři</string> 
+    <string name="donate_title">Darovat</string> 
+    <string name="donate_greeting">Ahoj!</string> 
+    <string name="upgrade_message2">Pokud se vám tato aplikace, kterou jsem vyvinul, líbí, zvažte prosím zakoupení mé aplikace pro upgrade.</string> 
+    <string name="upgrade_message3">Inovační aplikace obsahuje zaškrtávací políčka pro označení, když vám dojde účet nebo mince, a váš nákup mi ukáže, že můj čas strávený vývojem bezplatných aplikací bez reklam je vítán.</string> 
+    <string name="cash">Hotovost</string> 
+    <string name="change_due">Změnit kvůli</string> 
+    <string name="bills">Účty</string> 
+    <string name="large_number_error_toast">Chyba: číslo je příliš velké</string> 
+    <string name="upgrade">Vylepšit</string> 
+    <string name="coins">Mince</string> 
+    <string name="app_name">Změnit kalkulačku</string> 
+ </resources>

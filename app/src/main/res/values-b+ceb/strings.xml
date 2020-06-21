@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Tima</string> 
+    <string name="donate_message">Amanda diay ko.</string> 
+    <string name="donate_message2">Kung nalingaw ka sa kini nga app nga akong naugmad, palihug hunahunaa ang pagpalit sa akong donation app.</string> 
+    <string name="donate_message3">Wala’y nahimo ang donasyon app, apan ang imong donasyon magpakita kanako nga ang akong oras nga gigugol sa pagpalambo sa libre, ang mga no-ads nga apps gipabilhan.</string> 
+    <string name="donate_thanks">Salamat!</string> 
+    <string name="small">Gamay</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Daghan</string> 
+    <string name="small_heart">gamay nga kasingkasing</string> 
+    <string name="medium_heart">medium nga kasingkasing</string> 
+    <string name="large_heart">dako nga kasingkasing</string> 
+    <string name="action_donate">Mag-donate sa Developer</string> 
+    <string name="donate_title">Pag-donate</string> 
+    <string name="donate_greeting">Kumusta!</string> 
+    <string name="upgrade_message2">Kung nalingaw ka sa kini nga app nga akong naugmad, palihug hunahunaa ang pagpalit sa akong pag-upgrade app.</string> 
+    <string name="upgrade_message3">Ang pagpa-upgrade sa app naglakip sa mga checkbox alang sa pagmarka kung nahutdan ka sa mga bayranan o sensilyo, ug ang imong pagpalit magpakita kanako nga ang akong oras nga gigugol sa pagpalambo sa libre, wala’y mga ad nga pahibalo gipabilhan.</string> 
+    <string name="cash">Kuwarta</string> 
+    <string name="change_due">Pag-usab Tungod</string> 
+    <string name="bills">Mga Kuwarta</string> 
+    <string name="large_number_error_toast">Sayop: daghan ang kadaghan</string> 
+    <string name="upgrade">Pag-upgrade</string> 
+    <string name="coins">Sinsilyo</string> 
+    <string name="app_name">Pag-usab Calculator</string> 
+ </resources>

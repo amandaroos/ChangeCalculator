@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">גאַנץ</string> 
+    <string name="donate_message">מייַן נאָמען איז אַמאַנדאַ.</string> 
+    <string name="donate_message2">אויב איר האָט הנאה פון דעם אַפּ וואָס איך דעוועלאָפּעד, ביטע באַטראַכטן פּערטשאַסינג מיין דאָנאַטיאָן אַפּ.</string> 
+    <string name="donate_message3">די צושטייַער אַפּ טוט נישט טאָן עפּעס, אָבער דיין צושטייַער וועט ווייַזן מיר אַז מיין צייט פארבראכט צו אַנטוויקלען פריי, קיין-אַדס אַפּס איז אַפּרישיייטיד.</string> 
+    <string name="donate_thanks">דאַנקען!</string> 
+    <string name="small">קליין</string> 
+    <string name="medium">מיטל</string> 
+    <string name="large">גרויס</string> 
+    <string name="small_heart">קליין האַרץ</string> 
+    <string name="medium_heart">מיטל האַרץ</string> 
+    <string name="large_heart">גרויס האַרץ</string> 
+    <string name="action_donate">שענקען פֿאַר דעוועלאָפּער</string> 
+    <string name="donate_title">שענקען</string> 
+    <string name="donate_greeting">העלא!</string> 
+    <string name="upgrade_message2">אויב איר האָט הנאה פון דעם אַפּ איך דעוועלאָפּעד, ביטע באַטראַכטן פּערטשאַסינג מיין אַפּגרייד אַפּ.</string> 
+    <string name="upgrade_message3">די אַפּגרייד אַפּ כּולל טשעקקבאָקסעס פֿאַר מאַרקינג ווען איר פאַרפאַלן ביללס אָדער קאָינס, און דיין קויפן וועט ווייַזן מיר אַז מיין צייט פארבראכט צו אַנטוויקלען פריי אַפּ-אָן אַפּס אַפּס איז אַפּרישיייטיד.</string> 
+    <string name="cash">קאַש</string> 
+    <string name="change_due">טוישן פעליק</string> 
+    <string name="bills">ביללס</string> 
+    <string name="large_number_error_toast">גרייַז: נומער איז צו גרויס</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">קאָינס</string> 
+    <string name="app_name">טוישן קאַלקולאַטאָר</string> 
+ </resources>

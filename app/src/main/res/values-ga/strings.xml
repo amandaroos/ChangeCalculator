@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Iomlán</string> 
+    <string name="donate_message">Amanda is ainm dom.</string> 
+    <string name="donate_message2">Má tá tú ag baint taitneamh as an aip seo a d’fhorbair mé, smaoinigh ar mo aip síntiús a cheannach.</string> 
+    <string name="donate_message3">Ní dhéanann an aip síntiús aon rud, ach taispeánfaidh do shíntiús dom go bhfuil meas ar mo chuid ama a chaith mé ag forbairt aipeanna saor in aisce.</string> 
+    <string name="donate_thanks">Go raibh maith agat!</string> 
+    <string name="small">Beag</string> 
+    <string name="medium">Mheán</string> 
+    <string name="large">Móra</string> 
+    <string name="small_heart">croí beag</string> 
+    <string name="medium_heart">croí meánach</string> 
+    <string name="large_heart">croí mór</string> 
+    <string name="action_donate">Deonaigh don Fhorbróir</string> 
+    <string name="donate_title">Deonaigh</string> 
+    <string name="donate_greeting">Dia dhuit!</string> 
+    <string name="upgrade_message2">Má tá tú ag baint taitneamh as an aip seo a d’fhorbair mé, smaoinigh ar mo aip uasghrádaithe a cheannach.</string> 
+    <string name="upgrade_message3">Cuimsíonn an aip uasghrádaithe boscaí seiceála le marcáil nuair a ritheann tú as billí nó monaí, agus taispeánfaidh do cheannach dom go bhfuil meas ar mo chuid ama a chaith mé ag forbairt aipeanna saor in aisce.</string> 
+    <string name="cash">Airgead</string> 
+    <string name="change_due">Athraigh Dlite</string> 
+    <string name="bills">Billí</string> 
+    <string name="large_number_error_toast">Earráid: tá an líon ró-mhór</string> 
+    <string name="upgrade">Uasghrádú</string> 
+    <string name="coins">Boinn</string> 
+    <string name="app_name">Athraigh Áireamhán</string> 
+ </resources>

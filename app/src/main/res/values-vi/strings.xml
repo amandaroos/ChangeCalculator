@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Toàn bộ</string> 
+    <string name="donate_message">Tôi tên là Amanda.</string> 
+    <string name="donate_message2">Nếu bạn đang thưởng thức ứng dụng này do tôi phát triển, vui lòng xem xét việc mua ứng dụng quyên góp của tôi.</string> 
+    <string name="donate_message3">Ứng dụng quyên góp không làm gì cả, nhưng đóng góp của bạn sẽ cho tôi thấy rằng thời gian của tôi dành cho việc phát triển các ứng dụng miễn phí, không có quảng cáo được đánh giá cao.</string> 
+    <string name="donate_thanks">Cảm ơn!</string> 
+    <string name="small">Nhỏ</string> 
+    <string name="medium">Trung bình</string> 
+    <string name="large">Lớn</string> 
+    <string name="small_heart">trái tim nhỏ</string> 
+    <string name="medium_heart">trái tim trung bình</string> 
+    <string name="large_heart">trái tim rộng lớn</string> 
+    <string name="action_donate">Đóng góp cho nhà phát triển</string> 
+    <string name="donate_title">Quyên góp</string> 
+    <string name="donate_greeting">Xin chào!</string> 
+    <string name="upgrade_message2">Nếu bạn đang thưởng thức ứng dụng này do tôi phát triển, vui lòng xem xét việc mua ứng dụng nâng cấp của tôi.</string> 
+    <string name="upgrade_message3">Ứng dụng nâng cấp bao gồm các hộp kiểm để đánh dấu khi bạn hết hóa đơn hoặc tiền xu và giao dịch mua hàng của bạn sẽ cho tôi thấy rằng thời gian của tôi dành cho việc phát triển các ứng dụng miễn phí, không có quảng cáo được đánh giá cao.</string> 
+    <string name="cash">Tiền mặt</string> 
+    <string name="change_due">Thay đổi do</string> 
+    <string name="bills">Hóa đơn</string> 
+    <string name="large_number_error_toast">Lỗi: số quá lớn</string> 
+    <string name="upgrade">Nâng cấp</string> 
+    <string name="coins">đồng xu</string> 
+    <string name="app_name">Thay đổi máy tính</string> 
+ </resources>

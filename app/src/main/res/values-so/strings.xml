@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Wadarta</string> 
+    <string name="donate_message">Magacaygu waa Amanda.</string> 
+    <string name="donate_message2">Haddii aad ku raaxeysatid barnaamijkan aan soo saaray, fadlan tixgeli iibsashada barnaamijkayga tabaruca.</string> 
+    <string name="donate_message3">Barnaamijka tabaruca waxba ma qabanayo, laakiin tabarucidaadu waxay i tusi doontaa in waqtigeyga ku qaatay horumarinta bilaashka ah, barnaamijyada aan xayeysiinta lahayn la ixtiraamo.</string> 
+    <string name="donate_thanks">Mahadsanid!</string> 
+    <string name="small">Yar</string> 
+    <string name="medium">Dhex dhexaad</string> 
+    <string name="large">Ballaaran</string> 
+    <string name="small_heart">wadnaha yar</string> 
+    <string name="medium_heart">wadnaha dhexdhexaadka ah</string> 
+    <string name="large_heart">wadnaha weyn</string> 
+    <string name="action_donate">Ku tabaruc kobciyaha</string> 
+    <string name="donate_title">Tabaruc</string> 
+    <string name="donate_greeting">Salaan!</string> 
+    <string name="upgrade_message2">Haddii aad ku raaxeysatid barnaamijkan aan horumariyey, fadlan tixgeli iibsashada barnaamijkayga casriyeynta.</string> 
+    <string name="upgrade_message3">Barnaamijka kor u qaadista waxaa ka mid ah sanduuqyada calaamadaha lagu calaamadeeyo markii ay kaa dhamaadaan biilasha ama qadaadiicda, iibsashadaadu waxay i tusin doontaa in waqtigeyga ku qaatay horumarinta bilaashka ah, barnaamijyada xayeysiiska ah ee aan lahayn xayeysiiska.</string> 
+    <string name="cash">Lacag</string> 
+    <string name="change_due">Isbedelka Sababta</string> 
+    <string name="bills">Biilasha</string> 
+    <string name="large_number_error_toast">Cilad: tiradu aad ayey u badan tahay</string> 
+    <string name="upgrade">Casriyeyn</string> 
+    <string name="coins">Qadaadiic</string> 
+    <string name="app_name">Beddel Xisaabiyaha</string> 
+ </resources>

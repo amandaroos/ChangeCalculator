@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">کل</string> 
+    <string name="donate_message">میرا نام آمنڈا ہے۔</string> 
+    <string name="donate_message2">اگر آپ تیار کردہ اس ایپ سے لطف اندوز ہو رہے ہیں تو ، براہ کرم میرے عطیہ ایپ کو خریدنے پر غور کریں۔</string> 
+    <string name="donate_message3">چندہ کی ایپ کچھ نہیں کرتی ہے ، لیکن آپ کے عطیہ سے مجھے یہ پتہ چل جائے گا کہ میرا وقت مفت ، نو اشتہار ایپس کی تیاری میں صرف ہوا ہے۔</string> 
+    <string name="donate_thanks">شکریہ!</string> 
+    <string name="small">چھوٹا</string> 
+    <string name="medium">میڈیم</string> 
+    <string name="large">بڑے</string> 
+    <string name="small_heart">چھوٹا دل</string> 
+    <string name="medium_heart">درمیانی دل</string> 
+    <string name="large_heart">بڑا دل</string> 
+    <string name="action_donate">ڈویلپر کو عطیہ کریں</string> 
+    <string name="donate_title">عطیہ کریں</string> 
+    <string name="donate_greeting">ہیلو!</string> 
+    <string name="upgrade_message2">اگر آپ اس ایپ سے لطف اندوز ہو رہے ہیں جو میں نے تیار کیا ہے تو ، براہ کرم میرے اپ گریڈ ایپ کو خریدنے پر غور کریں۔</string> 
+    <string name="upgrade_message3">اپ گریڈ ایپ میں نشان لگانے کے لئے چیک باکسز شامل ہیں جب آپ کا بل یا سکے ختم ہوجاتے ہیں ، اور آپ کی خریداری مجھے دکھائے گی کہ میرا مفت ، نو اشتہار ایپس تیار کرنے میں صرف ہوا ہے۔</string> 
+    <string name="cash">نقد</string> 
+    <string name="change_due">بدلے جانے کی وجہ سے</string> 
+    <string name="bills">بلز</string> 
+    <string name="large_number_error_toast">خرابی: تعداد بہت بڑی ہے</string> 
+    <string name="upgrade">اپ گریڈ</string> 
+    <string name="coins">سکے</string> 
+    <string name="app_name">کیلکولیٹر بدلیں</string> 
+ </resources>

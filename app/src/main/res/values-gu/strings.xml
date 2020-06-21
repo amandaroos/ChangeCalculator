@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">કુલ</string> 
+    <string name="donate_message">મારું નામ અમાન્દા છે.</string> 
+    <string name="donate_message2">જો તમે આ એપ્લિકેશનનો આનંદ માણી રહ્યાં છો જે મેં વિકસિત કર્યું છે, તો કૃપા કરીને મારી દાન એપ્લિકેશન ખરીદવાનું ધ્યાનમાં લો.</string> 
+    <string name="donate_message3">દાન એપ્લિકેશન કંઈપણ કરતું નથી, પરંતુ તમારું દાન મને બતાવશે કે મારો સમય નિ ,શુલ્ક, નો-એડ્સ એપ્લિકેશંસ વિકસાવવા માટે ખર્ચવામાં આવ્યો છે.</string> 
+    <string name="donate_thanks">આભાર!</string> 
+    <string name="small">નાનું</string> 
+    <string name="medium">માધ્યમ</string> 
+    <string name="large">મોટું</string> 
+    <string name="small_heart">નાના હૃદય</string> 
+    <string name="medium_heart">મધ્યમ હૃદય</string> 
+    <string name="large_heart">મોટા હૃદય</string> 
+    <string name="action_donate">વિકાસકર્તાને દાન કરો</string> 
+    <string name="donate_title">દાન કરો</string> 
+    <string name="donate_greeting">નમસ્તે!</string> 
+    <string name="upgrade_message2">જો તમે આ એપ્લિકેશનનો આનંદ માણી રહ્યાં છો જે મેં વિકસિત કર્યું છે, તો કૃપા કરીને મારી અપગ્રેડ એપ્લિકેશન ખરીદવાનું ધ્યાનમાં લો.</string> 
+    <string name="upgrade_message3">અપગ્રેડ એપ્લિકેશનમાં જ્યારે તમે બીલો અથવા સિક્કાઓ સમાપ્ત થતા હો ત્યારે ચિહ્નિત કરવા માટેના ચેકબોક્સેસનો સમાવેશ થાય છે અને તમારી ખરીદી મને બતાવશે કે મારો સમય નિ noશુલ્ક, નો-એડ્સ એપ્લિકેશંસ વિકસાવવામાં ખર્ચવામાં આવ્યો છે.</string> 
+    <string name="cash">રોકડ</string> 
+    <string name="change_due">બદલો કારણે</string> 
+    <string name="bills">બીલ</string> 
+    <string name="large_number_error_toast">ભૂલ: સંખ્યા ખૂબ મોટી છે</string> 
+    <string name="upgrade">અપગ્રેડ કરો</string> 
+    <string name="coins">સિક્કા</string> 
+    <string name="app_name">કેલ્ક્યુલેટર બદલો</string> 
+ </resources>

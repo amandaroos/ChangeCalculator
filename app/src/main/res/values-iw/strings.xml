@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">סה"כ</string> 
+    <string name="donate_message">שמי הוא אמנדה.</string> 
+    <string name="donate_message2">אם אתם נהנים מאפליקציה זו שפיתחתי, אנא שקלו לרכוש את אפליקציית התרומה שלי.</string> 
+    <string name="donate_message3">אפליקציית התרומה לא עושה דבר, אך התרומה שלך תראה לי שהזמן שלי לבזבז אפליקציות בחינם ללא מודעות מוערך.</string> 
+    <string name="donate_thanks">תודה!</string> 
+    <string name="small">קָטָן</string> 
+    <string name="medium">בינוני</string> 
+    <string name="large">גָדוֹל</string> 
+    <string name="small_heart">לב קטן</string> 
+    <string name="medium_heart">לב בינוני</string> 
+    <string name="large_heart">לב גדול</string> 
+    <string name="action_donate">לתרום למפתח</string> 
+    <string name="donate_title">לִתְרוֹם</string> 
+    <string name="donate_greeting">שלום!</string> 
+    <string name="upgrade_message2">אם אתם נהנים מאפליקציה זו שפיתחתי, אנא שקלו לרכוש את אפליקציית השדרוג שלי.</string> 
+    <string name="upgrade_message3">אפליקציית השדרוג כוללת תיבות סימון לסימן כאשר נגמר לך שטרות או מטבעות, והרכישה שלך תראה לי שבזמני בפיתוח אפליקציות חינמיות ללא מודעות מוערך.</string> 
+    <string name="cash">כסף מזומן</string> 
+    <string name="change_due">שינוי עקב</string> 
+    <string name="bills">שטרות</string> 
+    <string name="large_number_error_toast">שגיאה: המספר גדול מדי</string> 
+    <string name="upgrade">שדרג</string> 
+    <string name="coins">מטבעות</string> 
+    <string name="app_name">שנה מחשבון</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">جمع</string> 
+    <string name="donate_message">اسم من آماندا است.</string> 
+    <string name="donate_message2">اگر از این برنامه که من توسعه داده ام لذت می برید ، لطفاً برنامه خرید اهدای عضو خود را در نظر بگیرید.</string> 
+    <string name="donate_message3">برنامه کمک مالی کاری انجام نمی دهد ، اما کمک مالی شما به من نشان می دهد که وقت من صرف توسعه برنامه های رایگان و بدون تبلیغات قدردانی شده است.</string> 
+    <string name="donate_thanks">با تشکر!</string> 
+    <string name="small">کم اهمیت</string> 
+    <string name="medium">متوسط</string> 
+    <string name="large">بزرگ</string> 
+    <string name="small_heart">قلب کوچک</string> 
+    <string name="medium_heart">قلب متوسط</string> 
+    <string name="large_heart">قلب بزرگ</string> 
+    <string name="action_donate">اهداء به توسعه دهنده</string> 
+    <string name="donate_title">اهدا کنید</string> 
+    <string name="donate_greeting">سلام!</string> 
+    <string name="upgrade_message2">اگر از این برنامه که توسعه داده ام لذت می برید ، لطفاً برنامه خرید برنامه ارتقاء من را در نظر بگیرید.</string> 
+    <string name="upgrade_message3">برنامه ارتقا شامل جعبه های انتخاب برای علامت گذاری هنگام عدم پرداخت صورتحساب یا سکه است ، و خرید شما به من نشان می دهد که وقت من صرف توسعه برنامه های بدون تبلیغات و تبلیغاتی می شود ، قدردانی می شود.</string> 
+    <string name="cash">پول نقد</string> 
+    <string name="change_due">تغییر به دلیل</string> 
+    <string name="bills">صورتحساب</string> 
+    <string name="large_number_error_toast">خطا: تعداد خیلی زیاد است</string> 
+    <string name="upgrade">ارتقا</string> 
+    <string name="coins">سکه</string> 
+    <string name="app_name">ماشین حساب را تغییر دهید</string> 
+ </resources>

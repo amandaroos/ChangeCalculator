@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Kopā</string> 
+    <string name="donate_message">Mani sauc Amanda.</string> 
+    <string name="donate_message2">Ja jums patika šī manis izstrādātā lietotne, lūdzu, apsveriet iespēju iegādāties manu ziedojumu lietotni.</string> 
+    <string name="donate_message3">Ziedojuma lietotne neko nedara, bet jūsu ziedojums man parādīs, ka mans laiks, kas pavadīts, izstrādājot bezmaksas lietotnes bez reklāmām, tiek novērtēts.</string> 
+    <string name="donate_thanks">Paldies!</string> 
+    <string name="small">Maza</string> 
+    <string name="medium">Vidēja</string> 
+    <string name="large">Liela</string> 
+    <string name="small_heart">maza sirds</string> 
+    <string name="medium_heart">vidēja sirds</string> 
+    <string name="large_heart">liela sirds</string> 
+    <string name="action_donate">Ziedojiet izstrādātājam</string> 
+    <string name="donate_title">Ziedo</string> 
+    <string name="donate_greeting">Sveiki!</string> 
+    <string name="upgrade_message2">Ja jums patīk šī manis izstrādātā lietotne, lūdzu, apsveriet iespēju iegādāties jaunināšanas lietotni.</string> 
+    <string name="upgrade_message3">Jaunināšanas lietotnē ir izvēles rūtiņas marķēšanai, kad beigušies rēķini vai monētas, un pirkums man parādīs, ka mans laiks, kas pavadīts, izstrādājot bezmaksas lietotnes bez reklāmām, tiek novērtēts.</string> 
+    <string name="cash">Nauda</string> 
+    <string name="change_due">Jāmaina</string> 
+    <string name="bills">Rēķini</string> 
+    <string name="large_number_error_toast">Kļūda: skaitlis ir pārāk liels</string> 
+    <string name="upgrade">Jaunināt</string> 
+    <string name="coins">Monētas</string> 
+    <string name="app_name">Mainīt kalkulatoru</string> 
+ </resources>

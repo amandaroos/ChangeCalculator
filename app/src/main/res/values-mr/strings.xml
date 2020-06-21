@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">एकूण</string> 
+    <string name="donate_message">माझे नाव अमांडा आहे.</string> 
+    <string name="donate_message2">मी विकसित केलेल्या या अ‍ॅपचा आनंद घेत असल्यास, कृपया माझा देणगी अ‍ॅप खरेदी करण्याचा विचार करा.</string> 
+    <string name="donate_message3">देणगी अॅप काहीही करत नाही, परंतु आपल्या देणगीने मला दर्शविले की माझा वेळ विनामूल्य, जाहिराती नसलेल्या अ‍ॅप्सचा विकास करण्यात घालविला आहे.</string> 
+    <string name="donate_thanks">धन्यवाद!</string> 
+    <string name="small">लहान</string> 
+    <string name="medium">मध्यम</string> 
+    <string name="large">मोठा</string> 
+    <string name="small_heart">लहान हृदय</string> 
+    <string name="medium_heart">मध्यम हृदय</string> 
+    <string name="large_heart">मोठे हृदय</string> 
+    <string name="action_donate">विकसकास देणगी द्या</string> 
+    <string name="donate_title">दान करा</string> 
+    <string name="donate_greeting">नमस्कार!</string> 
+    <string name="upgrade_message2">मी विकसित केलेल्या या अ‍ॅपचा आनंद घेत असल्यास, कृपया माझा अपग्रेड अ‍ॅप खरेदी करण्याचा विचार करा.</string> 
+    <string name="upgrade_message3">अपग्रेड अ‍ॅपमध्ये आपली बिले किंवा नाणी संपली नाहीत तेव्हा चिन्हांकित करण्यासाठी चेकबॉक्सेस समाविष्ट आहेत आणि आपली खरेदी मला दर्शवेल की माझा विनामूल्य विनामूल्य, जाहिराती नसलेल्या अ‍ॅप्सचा विकास करण्यात घालवला आहे.</string> 
+    <string name="cash">रोख</string> 
+    <string name="change_due">बदलामुळे</string> 
+    <string name="bills">बिले</string> 
+    <string name="large_number_error_toast">त्रुटी: संख्या खूप मोठी आहे</string> 
+    <string name="upgrade">श्रेणीसुधारित करा</string> 
+    <string name="coins">नाणी</string> 
+    <string name="app_name">कॅल्क्युलेटर बदला</string> 
+ </resources>

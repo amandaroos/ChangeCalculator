@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Mitt namn är Amanda.</string> 
+    <string name="donate_message2">Om du tycker om den här appen som jag utvecklade, kan du överväga att köpa min donationsapp.</string> 
+    <string name="donate_message3">Donationsappen gör inte någonting, men din donation visar mig att min tid till att utveckla gratis apps utan annonser uppskattas.</string> 
+    <string name="donate_thanks">Tack!</string> 
+    <string name="small">Små</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Stor</string> 
+    <string name="small_heart">litet hjärta</string> 
+    <string name="medium_heart">medium hjärta</string> 
+    <string name="large_heart">stort hjärta</string> 
+    <string name="action_donate">Donera till utvecklaren</string> 
+    <string name="donate_title">Donera</string> 
+    <string name="donate_greeting">Hallå!</string> 
+    <string name="upgrade_message2">Om du tycker om den här appen som jag utvecklade kan du överväga att köpa min uppgraderingsapp.</string> 
+    <string name="upgrade_message3">Uppgraderings-appen innehåller kryssrutor för markering när du har slut på räkningar eller mynt, och ditt köp visar mig att min tid till att utveckla gratis, inga annonser-appar uppskattas.</string> 
+    <string name="cash">Kontanter</string> 
+    <string name="change_due">Ändra på grund</string> 
+    <string name="bills">Räkningar</string> 
+    <string name="large_number_error_toast">Fel: numret är för stort</string> 
+    <string name="upgrade">uppgradering</string> 
+    <string name="coins">mynt</string> 
+    <string name="app_name">Byt kalkylator</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Общее количество</string> 
+    <string name="donate_message">Меня зовут Аманда.</string> 
+    <string name="donate_message2">Если вам нравится это приложение, которое я разработал, рассмотрите возможность покупки моего приложения для пожертвований.</string> 
+    <string name="donate_message3">Приложение для пожертвований ничего не делает, но ваше пожертвование покажет мне, что мое время, потраченное на разработку бесплатных приложений без рекламы, ценится.</string> 
+    <string name="donate_thanks">Спасибо!</string> 
+    <string name="small">Маленький</string> 
+    <string name="medium">средний</string> 
+    <string name="large">большой</string> 
+    <string name="small_heart">маленькое сердце</string> 
+    <string name="medium_heart">среднее сердце</string> 
+    <string name="large_heart">большое сердце</string> 
+    <string name="action_donate">Пожертвовать разработчику</string> 
+    <string name="donate_title">жертвовать</string> 
+    <string name="donate_greeting">Здравствуйте!</string> 
+    <string name="upgrade_message2">Если вам нравится это приложение, которое я разработал, рассмотрите возможность приобретения моего приложения для обновления.</string> 
+    <string name="upgrade_message3">Приложение обновления включает в себя флажки для отметки, когда у вас закончились купюры или монеты, и ваша покупка покажет мне, что мое время, потраченное на разработку бесплатных приложений без рекламы, ценится.</string> 
+    <string name="cash">Денежные средства</string> 
+    <string name="change_due">Из-за изменения</string> 
+    <string name="bills">банкноты</string> 
+    <string name="large_number_error_toast">Ошибка: номер слишком велик</string> 
+    <string name="upgrade">Обновить</string> 
+    <string name="coins">монеты</string> 
+    <string name="app_name">Изменить калькулятор</string> 
+ </resources>

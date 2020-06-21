@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Всього</string> 
+    <string name="donate_message">Мене звуть Аманда.</string> 
+    <string name="donate_message2">Якщо вам подобається цей додаток, який я розробив, будь ласка, подумайте про придбання моєї програми для пожертв.</string> 
+    <string name="donate_message3">Додаток на пожертви нічого не робить, але ваше пожертвування покаже мені, що мій час, витрачений на розробку безкоштовних програм без реклами, цінується.</string> 
+    <string name="donate_thanks">Дякую!</string> 
+    <string name="small">Маленький</string> 
+    <string name="medium">Середній</string> 
+    <string name="large">Великий</string> 
+    <string name="small_heart">маленьке серце</string> 
+    <string name="medium_heart">середнє серце</string> 
+    <string name="large_heart">велике серце</string> 
+    <string name="action_donate">Пожертвуйте розробнику</string> 
+    <string name="donate_title">Пожертвуйте</string> 
+    <string name="donate_greeting">Привіт!</string> 
+    <string name="upgrade_message2">Якщо вам подобається розроблений нами додаток, будь ласка, подумайте про придбання мого додатка для оновлення.</string> 
+    <string name="upgrade_message3">Додаток для оновлення містить прапорці для позначення, коли у вас закінчуються рахунки або монети, і ваша покупка покаже мені, що мій час, витрачений на розробку безкоштовних додатків без реклами, цінується.</string> 
+    <string name="cash">Готівкою</string> 
+    <string name="change_due">Змінити належне</string> 
+    <string name="bills">Рахунки</string> 
+    <string name="large_number_error_toast">Помилка: кількість завелика</string> 
+    <string name="upgrade">Оновити</string> 
+    <string name="coins">Монети</string> 
+    <string name="app_name">Калькулятор змін</string> 
+ </resources>

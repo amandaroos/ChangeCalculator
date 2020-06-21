@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Emri im është Amanda.</string> 
+    <string name="donate_message2">Nëse po shijoni këtë aplikacion që kam zhvilluar, ju lutemi merrni parasysh blerjen e aplikacionit tim të dhurimit.</string> 
+    <string name="donate_message3">Aplikacioni i dhurimit nuk bën asgjë, por dhurimi juaj do të më tregojë që koha ime e kaluar për zhvillimin e aplikacioneve pa reklama falas vlerësohet.</string> 
+    <string name="donate_thanks">Faleminderit!</string> 
+    <string name="small">i vogël</string> 
+    <string name="medium">medium</string> 
+    <string name="large">i madh</string> 
+    <string name="small_heart">zemër e vogël</string> 
+    <string name="medium_heart">zemër mesatare</string> 
+    <string name="large_heart">zemër e madhe</string> 
+    <string name="action_donate">Dhuroni për Zhvilluesin</string> 
+    <string name="donate_title">dhuroj</string> 
+    <string name="donate_greeting">Përshëndetje!</string> 
+    <string name="upgrade_message2">Nëse po shijoni këtë aplikacion që kam zhvilluar, ju lutem konsideroni blerjen e aplikacionit tim të azhurnimit.</string> 
+    <string name="upgrade_message3">Aplikacioni i azhurnuar përfshin kutitë e shënimit për të shënuar kur ju mbaroni faturat ose monedhat, dhe blerja juaj do të më tregojë se koha ime e kaluar për të zhvilluar aplikacione pa reklama falas vlerësohet.</string> 
+    <string name="cash">para</string> 
+    <string name="change_due">Ndryshimi për shkak</string> 
+    <string name="bills">faturat</string> 
+    <string name="large_number_error_toast">Gabim: numri është shumë i madh</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">monedha</string> 
+    <string name="app_name">Llogaritësi i ndryshimit</string> 
+ </resources>

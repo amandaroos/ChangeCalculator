@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Teljes</string> 
+    <string name="donate_message">Amanda vagyok.</string> 
+    <string name="donate_message2">Ha élvezi ezt az általam kifejlesztett alkalmazást, kérjük, fontolja meg adományozási alkalmazásomat.</string> 
+    <string name="donate_message3">Az adományozási alkalmazás nem tesz semmit, ám az adományod megmutatja nekem, hogy ingyenes, nem hirdetések nélküli alkalmazások fejlesztésére töltött időm nagyra értékelik.</string> 
+    <string name="donate_thanks">Kösz!</string> 
+    <string name="small">Kicsi</string> 
+    <string name="medium">Közepes</string> 
+    <string name="large">Nagy</string> 
+    <string name="small_heart">kis szív</string> 
+    <string name="medium_heart">közepes szívű</string> 
+    <string name="large_heart">nagy szív</string> 
+    <string name="action_donate">Adomány a fejlesztõnek</string> 
+    <string name="donate_title">Adományoz</string> 
+    <string name="donate_greeting">Szia!</string> 
+    <string name="upgrade_message2">Ha élvezi ezt az általam kifejlesztett alkalmazást, kérjük, fontolja meg a frissítő alkalmazás vásárlását.</string> 
+    <string name="upgrade_message3">A frissítési alkalmazás olyan jelölőnégyzeteket tartalmaz, amelyek jelzik, ha elfogynak a számlák vagy érmék, és a vásárlás azt mutatja, hogy az ingyenes, hirdetések nélküli alkalmazásokat fejlesztve töltött időm nagyra értékelik.</string> 
+    <string name="cash">Készpénz</string> 
+    <string name="change_due">Változás</string> 
+    <string name="bills">Bills</string> 
+    <string name="large_number_error_toast">Hiba: a szám túl nagy</string> 
+    <string name="upgrade">Frissítés</string> 
+    <string name="coins">érmék</string> 
+    <string name="app_name">Change Calculator</string> 
+ </resources>

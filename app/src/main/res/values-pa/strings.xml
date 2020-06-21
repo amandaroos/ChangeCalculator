@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">ਕੁੱਲ</string> 
+    <string name="donate_message">ਮੇਰਾ ਨਾਮ ਅਮਾਂਡਾ ਹੈ</string> 
+    <string name="donate_message2">ਜੇ ਤੁਸੀਂ ਇਸ ਐਪ ਦਾ ਅਨੰਦ ਲੈ ਰਹੇ ਹੋ ਜੋ ਮੈਂ ਵਿਕਸਤ ਕੀਤਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਦਾਨ ਐਪ ਨੂੰ ਖਰੀਦਣ \'ਤੇ ਵਿਚਾਰ ਕਰੋ.</string> 
+    <string name="donate_message3">ਦਾਨ ਐਪ ਕੁਝ ਵੀ ਨਹੀਂ ਕਰਦਾ, ਪਰ ਤੁਹਾਡਾ ਦਾਨ ਮੈਨੂੰ ਦਰਸਾਏਗਾ ਕਿ ਮੇਰਾ ਸਮਾਂ ਮੁਫਤ, ਬਿਨਾਂ ਵਿਗਿਆਪਨ ਦੀਆਂ ਐਪਸ ਦੀ ਸ਼ਲਾਘਾ ਕਰਨ ਵਿਚ ਬਿਤਾਇਆ.</string> 
+    <string name="donate_thanks">ਧੰਨਵਾਦ!</string> 
+    <string name="small">ਛੋਟਾ</string> 
+    <string name="medium">ਦਰਮਿਆਨੇ</string> 
+    <string name="large">ਵੱਡਾ</string> 
+    <string name="small_heart">ਛੋਟਾ ਦਿਲ</string> 
+    <string name="medium_heart">ਦਰਮਿਆਨੇ ਦਿਲ</string> 
+    <string name="large_heart">ਵੱਡਾ ਦਿਲ</string> 
+    <string name="action_donate">ਡਿਵੈਲਪਰ ਨੂੰ ਦਾਨ ਕਰੋ</string> 
+    <string name="donate_title">ਦਾਨ ਕਰੋ</string> 
+    <string name="donate_greeting">ਸਤ ਸ੍ਰੀ ਅਕਾਲ!</string> 
+    <string name="upgrade_message2">ਜੇ ਤੁਸੀਂ ਇਸ ਐਪ ਦਾ ਅਨੰਦ ਲੈ ਰਹੇ ਹੋ ਜੋ ਮੈਂ ਵਿਕਸਤ ਕੀਤਾ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਅਪਗ੍ਰੇਡ ਐਪ ਨੂੰ ਖਰੀਦਣ ਤੇ ਵਿਚਾਰ ਕਰੋ.</string> 
+    <string name="upgrade_message3">ਅਪਗ੍ਰੇਡ ਐਪ ਵਿੱਚ ਨਿਸ਼ਾਨ ਲਗਾਉਣ ਲਈ ਚੈਕਬਾਕਸ ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ ਜਦੋਂ ਤੁਸੀਂ ਬਿਲਾਂ ਜਾਂ ਸਿੱਕਿਆਂ ਦੀ ਸਮਾਪਤੀ ਕਰਦੇ ਹੋ, ਅਤੇ ਤੁਹਾਡੀ ਖਰੀਦਾਰੀ ਮੈਨੂੰ ਦਰਸਾਉਂਦੀ ਹੈ ਕਿ ਮੁਫਤ, ਨੋ-ਇਸ਼ਤਿਹਾਰਾਂ ਦੇ ਐਪਸ ਦਾ ਵਿਕਾਸ ਕਰਨ ਲਈ ਮੇਰਾ ਸਮਾਂ ਬਿਤਾਇਆ ਗਿਆ ਹੈ.</string> 
+    <string name="cash">ਨਕਦ</string> 
+    <string name="change_due">ਬਦਲਾਅ ਕਾਰਨ</string> 
+    <string name="bills">ਬਿੱਲ</string> 
+    <string name="large_number_error_toast">ਗਲਤੀ: ਨੰਬਰ ਬਹੁਤ ਵੱਡਾ ਹੈ</string> 
+    <string name="upgrade">ਅਪਗ੍ਰੇਡ ਕਰੋ</string> 
+    <string name="coins">ਸਿੱਕੇ</string> 
+    <string name="app_name">ਕੈਲਕੁਲੇਟਰ ਬਦਲੋ</string> 
+ </resources>

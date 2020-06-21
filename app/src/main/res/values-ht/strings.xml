@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Non mwen se Amanda.</string> 
+    <string name="donate_message2">Si w ap jwi app sa a mwen devlope, tanpri konsidere achte app don mwen an.</string> 
+    <string name="donate_message3">App a don pa fè anyen, men don ou yo pral montre m \'ki tan mwen te pase devlope gratis, app pa gen okenn-Ajoute apresye.</string> 
+    <string name="donate_thanks">Mèsi!</string> 
+    <string name="small">Ti</string> 
+    <string name="medium">Mwayen</string> 
+    <string name="large">Gwo</string> 
+    <string name="small_heart">ti kè</string> 
+    <string name="medium_heart">kè mwayen</string> 
+    <string name="large_heart">gwo kè</string> 
+    <string name="action_donate">Donate Developer</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_greeting">Bonjou!</string> 
+    <string name="upgrade_message2">Si w ap jwi app sa a mwen devlope, tanpri konsidere achte app ajou mwen an.</string> 
+    <string name="upgrade_message3">App a ajou gen ladan checkboxes pou regilye nèf semenn klas lè ou kouri soti nan bòdwo oswa pyès monnen, ak acha ou pral montre m \'ki tan mwen te pase devlope gratis, pa gen okenn-apps app apresye.</string> 
+    <string name="cash">Lajan Kach</string> 
+    <string name="change_due">Chanjman akòz</string> 
+    <string name="bills">Bòdwo yo</string> 
+    <string name="large_number_error_toast">Erè: nimewo a twò gwo</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">Pyès monnen</string> 
+    <string name="app_name">Chanje Calculator</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Toplam</string> 
+    <string name="donate_message">Benim adım Amanda.</string> 
+    <string name="donate_message2">Geliştirdiğim bu uygulamayı seviyorsanız, lütfen bağış uygulamasını satın almayı düşünün.</string> 
+    <string name="donate_message3">Bağış uygulaması hiçbir şey yapmaz, ancak bağışınız bana ücretsiz, reklamsız uygulamalar geliştirmek için harcadığım zamanın takdir edildiğini gösterecektir.</string> 
+    <string name="donate_thanks">Teşekkürler!</string> 
+    <string name="small">Küçük</string> 
+    <string name="medium">Orta</string> 
+    <string name="large">Büyük</string> 
+    <string name="small_heart">küçük kalp</string> 
+    <string name="medium_heart">orta kalp</string> 
+    <string name="large_heart">büyük kalp</string> 
+    <string name="action_donate">Geliştiriciye Bağış Yapın</string> 
+    <string name="donate_title">bağışlamak</string> 
+    <string name="donate_greeting">Merhaba!</string> 
+    <string name="upgrade_message2">Geliştirdiğim bu uygulamayı seviyorsanız, lütfen yeni sürüme geçiş uygulamasını satın almayı düşünün.</string> 
+    <string name="upgrade_message3">Yeni sürüme geçiş uygulaması, fatura veya bozuk para bittiğinde işaretlemek için onay kutuları içerir ve satın alma işleminiz, ücretsiz, reklamsız uygulamalar geliştirmek için harcadığım zamanın takdir edildiğini gösterir.</string> 
+    <string name="cash">Nakit</string> 
+    <string name="change_due">Degişiklik nedeniyle</string> 
+    <string name="bills">fatura</string> 
+    <string name="large_number_error_toast">Hata: sayı çok büyük</string> 
+    <string name="upgrade">Yükselt</string> 
+    <string name="coins">madeni para</string> 
+    <string name="app_name">Hesaplayıcıyı Değiştir</string> 
+ </resources>

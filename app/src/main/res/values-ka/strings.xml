@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">სულ</string> 
+    <string name="donate_message">მე მქვია ამანდა.</string> 
+    <string name="donate_message2">თუ თქვენ სიამოვნებით იყენებთ ამ აპლიკაციას, რომელიც მე შევქმენი, გთხოვთ, გაითვალისწინოთ ჩემი შემოწირულობის აპის შეძენა.</string> 
+    <string name="donate_message3">შემოწირულობის აპკი არაფერს აკეთებს, მაგრამ თქვენი შემოწირულობა მეტყველებს, რომ ჩემი დრო უფასო და უფასო განცხადებების შემუშავებისთვის დახარჯული დრო დაფასებულია.</string> 
+    <string name="donate_thanks">მადლობა!</string> 
+    <string name="small">Პატარა</string> 
+    <string name="medium">საშუალო</string> 
+    <string name="large">დიდი</string> 
+    <string name="small_heart">პატარა გული</string> 
+    <string name="medium_heart">საშუალო გული</string> 
+    <string name="large_heart">დიდი გული</string> 
+    <string name="action_donate">შემოწირეთ დეველოპერი</string> 
+    <string name="donate_title">შემოწირავს</string> 
+    <string name="donate_greeting">გამარჯობა!</string> 
+    <string name="upgrade_message2">თუ თქვენ სიამოვნებით იყენებთ ამ აპლიკაციას, რომელიც მე შევქმენი, გთხოვთ, გაითვალისწინოთ ჩემი განახლებული პროგრამის შეძენა.</string> 
+    <string name="upgrade_message3">განახლებული აპლიკაცია შეიცავს მარკირების ნიშანს, როდესაც გადასახადები ან მონეტები ამოიწურა, ხოლო თქვენი შესყიდვა მეტყველებს, რომ უფასო და უფასო განცხადებების შემუშავებისთვის დახარჯული ჩემი დრო დაფასებულია.</string> 
+    <string name="cash">ნაღდი ფული</string> 
+    <string name="change_due">შეცვლის გამო</string> 
+    <string name="bills">გადასახადები</string> 
+    <string name="large_number_error_toast">შეცდომა: ნომერი ძალიან დიდია</string> 
+    <string name="upgrade">განახლება</string> 
+    <string name="coins">მონეტები</string> 
+    <string name="app_name">შეცვალეთ კალკულატორი</string> 
+ </resources>

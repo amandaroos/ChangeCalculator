@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Totaal</string> 
+    <string name="donate_message">Ik heet Amanda.</string> 
+    <string name="donate_message2">Als je geniet van deze app die ik heb ontwikkeld, overweeg dan om mijn donatie-app te kopen.</string> 
+    <string name="donate_message3">De donatie-app doet niets, maar uw donatie zal me laten zien dat mijn tijd besteed aan het ontwikkelen van gratis apps zonder advertenties op prijs wordt gesteld.</string> 
+    <string name="donate_thanks">Bedankt!</string> 
+    <string name="small">Klein</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Groot</string> 
+    <string name="small_heart">klein hart</string> 
+    <string name="medium_heart">medium hart</string> 
+    <string name="large_heart">groot hart</string> 
+    <string name="action_donate">Doneer aan ontwikkelaar</string> 
+    <string name="donate_title">Doneer</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="upgrade_message2">Als je geniet van deze app die ik heb ontwikkeld, overweeg dan om mijn upgrade-app te kopen.</string> 
+    <string name="upgrade_message3">De upgrade-app bevat selectievakjes om te markeren wanneer uw rekeningen of munten op zijn, en uw aankoop zal me laten zien dat mijn tijd besteed aan het ontwikkelen van gratis apps zonder advertenties op prijs wordt gesteld.</string> 
+    <string name="cash">Contant geld</string> 
+    <string name="change_due">Verandering wegens</string> 
+    <string name="bills">Rekeningen</string> 
+    <string name="large_number_error_toast">Fout: nummer is te groot</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">Munten</string> 
+    <string name="app_name">Verander rekenmachine</string> 
+ </resources>

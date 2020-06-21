@@ -1,10 +1,9 @@
 <resources>
-    <string name="app_name">Change Calculator</string>
 
     <!--MainActivity-->
-    <string name="total">Total:</string>
-    <string name="cash">Cash:</string>
-    <string name="change_due">Change Due:</string>
+    <string name="total">Total</string>
+    <string name="cash">Cash</string>
+    <string name="change_due">Change Due</string>
     <string name="currency_symbol" translatable="false">$</string>
     <string name="zeroCurrency" translatable="false">$0.00</string>
 
@@ -48,4 +47,7 @@
     <string name="upgrade">Upgrade</string>
     <string name="play_store_browser_link_upgrade" translatable="false">https://play.google.com/store/apps/details?id=com.amandafarrell.www.changecalculatorpaid</string>
     <string name="play_store_direct_link_upgrade" translatable="false">market://details?id=com.amandafarrell.www.changecalculatorpaid</string>
+    <string name="small_heart">small heart</string>
+    <string name="medium_heart">medium heart</string>
+    <string name="large_heart">large heart</string>
 </resources>

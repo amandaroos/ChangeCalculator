@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Ümumi</string> 
+    <string name="donate_message">Adım Amanda.</string> 
+    <string name="donate_message2">Mən hazırladığım bu tətbiqdən zövq alırsınızsa, lütfən ianə tətbiqimi almağı düşünün.</string> 
+    <string name="donate_message3">Bağış tətbiqetməsi heç bir şey etmir, ancaq bağışladığınız vaxtımın pulsuz, reklam olmayan tətbiqlər inkişaf etdirməyə sərf etdiyini mənə göstərəcəkdir.</string> 
+    <string name="donate_thanks">Təşəkkür edirəm!</string> 
+    <string name="small">Kiçik</string> 
+    <string name="medium">Orta</string> 
+    <string name="large">Genişdir</string> 
+    <string name="small_heart">kiçik ürək</string> 
+    <string name="medium_heart">orta ürək</string> 
+    <string name="large_heart">böyük ürək</string> 
+    <string name="action_donate">Geliştiriciyə bağışlayın</string> 
+    <string name="donate_title">Bağışla</string> 
+    <string name="donate_greeting">Salam!</string> 
+    <string name="upgrade_message2">Mən hazırladığım bu tətbiqdən zövq alırsınızsa, zəhmət olmasa yeniləmə tətbiqimi almağı düşünün.</string> 
+    <string name="upgrade_message3">Yükseltme tətbiqetməsində, vərəqələr və ya sikkələr tükəndiyində işarələmə üçün qeyd qutuları var və satınalma vaxtımın pulsuz, reklamsız tətbiqetmələr inkişaf etdirməyə sərf etdiyini göstərəcəkdir.</string> 
+    <string name="cash">Nağd pul</string> 
+    <string name="change_due">Dəyişdirmək</string> 
+    <string name="bills">Veksellər</string> 
+    <string name="large_number_error_toast">Xəta: sayı çox böyükdür</string> 
+    <string name="upgrade">Yeniləyin</string> 
+    <string name="coins">Sikkələr</string> 
+    <string name="app_name">Kalkulyatoru dəyişdirin</string> 
+ </resources>

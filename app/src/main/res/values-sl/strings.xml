@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Skupaj</string> 
+    <string name="donate_message">Ime mi je Amanda.</string> 
+    <string name="donate_message2">Če uživate v tej aplikaciji, ki sem jo razvil, razmislite o nakupu moje aplikacije za donacije.</string> 
+    <string name="donate_message3">Aplikacija za donacijo ne naredi ničesar, vendar bo vaša donacija pokazala, da je moj čas, porabljen za razvoj brezplačnih aplikacij brez oglasov, cenjen.</string> 
+    <string name="donate_thanks">Hvala!</string> 
+    <string name="small">Majhna</string> 
+    <string name="medium">Srednja</string> 
+    <string name="large">Velika</string> 
+    <string name="small_heart">majhno srce</string> 
+    <string name="medium_heart">srednje srce</string> 
+    <string name="large_heart">veliko srce</string> 
+    <string name="action_donate">Donirajte razvijalcu</string> 
+    <string name="donate_title">Donirajte</string> 
+    <string name="donate_greeting">Zdravo!</string> 
+    <string name="upgrade_message2">Če uživate v tej aplikaciji, ki sem jo razvil, razmislite o nakupu moje aplikacije za nadgradnjo.</string> 
+    <string name="upgrade_message3">Aplikacija za nadgradnjo vključuje potrditvena polja za označevanje, ko vam zmanjka računov ali kovancev, in nakup vam bo pokazal, da je moj čas, porabljen za razvoj brezplačnih aplikacij brez oglasov, cenjen.</string> 
+    <string name="cash">Gotovina</string> 
+    <string name="change_due">Sprememba zaradi</string> 
+    <string name="bills">Računi</string> 
+    <string name="large_number_error_toast">Napaka: število je preveliko</string> 
+    <string name="upgrade">Nadgradnja</string> 
+    <string name="coins">Kovanci</string> 
+    <string name="app_name">Spremeni kalkulator</string> 
+ </resources>

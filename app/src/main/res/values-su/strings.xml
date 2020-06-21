@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Nami abdi Amanda.</string> 
+    <string name="donate_message2">Upami anjeun nuju resep aplikasi ieu kuring dikembangkeun, punten mertimbangkeun mésér aplikasi sumbangan kuring.</string> 
+    <string name="donate_message3">Aplikasi sumbangan henteu ngalakukeun nanaon, tapi sumbangan anjeun bakal nunjukkeun ka kuring yén waktos kuring nyéépkeun gratis, henteu aya iklan anu ngaapresiasi.</string> 
+    <string name="donate_thanks">Hatur nuhun!</string> 
+    <string name="small">Leutik</string> 
+    <string name="medium">Sedeng</string> 
+    <string name="large">Gedé</string> 
+    <string name="small_heart">haté leutik</string> 
+    <string name="medium_heart">sedeng manah</string> 
+    <string name="large_heart">hatena gedé</string> 
+    <string name="action_donate">Sumbangan ka Pamekar</string> 
+    <string name="donate_title">Sumbang</string> 
+    <string name="donate_greeting">Halo!</string> 
+    <string name="upgrade_message2">Upami anjeun resep kana aplikasi ieu kuring dikembangkeun, punten mertimbangkeun mésér paningkatan pamutahiran kuring.</string> 
+    <string name="upgrade_message3">Aplikasi pamutahiran kaasup kotak centang kanggo ditandaan nalika anjeun mayar tina tagihan atanapi koin, sareng pameseran anjeun bakal nunjukkeun ka kuring yén waktu kuring nyéépkeun gratis, henteu aya iklan anu ngahargaan.</string> 
+    <string name="cash">Kas</string> 
+    <string name="change_due">Robah Kusabab</string> 
+    <string name="bills">Bil</string> 
+    <string name="large_number_error_toast">Lepat: nomerna ageung teuing</string> 
+    <string name="upgrade">Ningkatkeun</string> 
+    <string name="coins">Koin</string> 
+    <string name="app_name">Ngarobih Kalkulator</string> 
+ </resources>

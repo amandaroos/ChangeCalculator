@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">合計</string> 
+    <string name="donate_message">私の名前はアマンダです。</string> 
+    <string name="donate_message2">私が開発したこのアプリを楽しんでいる場合は、寄付アプリの購入を検討してください。</string> 
+    <string name="donate_message3">寄付アプリは何もしませんが、あなたの寄付は、無料の広告なしアプリの開発に費やした私の時間に感謝しています。</string> 
+    <string name="donate_thanks">ありがとう！</string> 
+    <string name="small">小さい</string> 
+    <string name="medium">中</string> 
+    <string name="large">大</string> 
+    <string name="small_heart">小さな心</string> 
+    <string name="medium_heart">中心</string> 
+    <string name="large_heart">大きな心</string> 
+    <string name="action_donate">開発者に寄付する</string> 
+    <string name="donate_title">寄付</string> 
+    <string name="donate_greeting">こんにちは！</string> 
+    <string name="upgrade_message2">私が開発したこのアプリを楽しんでいる場合は、アップグレードアプリの購入を検討してください。</string> 
+    <string name="upgrade_message3">アップグレードアプリには、請求書やコインがなくなったときにマークを付けるためのチェックボックスが含まれています。購入すると、無料の広告なしアプリの開発に費やされた時間に感謝しています。</string> 
+    <string name="cash">現金</string> 
+    <string name="change_due">変更</string> 
+    <string name="bills">手形</string> 
+    <string name="large_number_error_toast">エラー：数値が大きすぎます</string> 
+    <string name="upgrade">アップグレードする</string> 
+    <string name="coins">硬貨</string> 
+    <string name="app_name">電卓を変更する</string> 
+ </resources>

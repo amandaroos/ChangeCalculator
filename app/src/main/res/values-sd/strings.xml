@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">ڪل</string> 
+    <string name="donate_message">منهنجو نالو امندا آهي.</string> 
+    <string name="donate_message2">جيڪڏهن توهان هن ائپ مان لطف اندوز ٿي رهيا آهيو ته آئون ترقي ڪري رهي آهيان ، مهرباني ڪري منهنجي ڊونڪشن ايپ خريد ڪرڻ تي غور ڪريو.</string> 
+    <string name="donate_message3">چندي ڏيڻ وارو ائپ ڪجهه نه ڪندو آهي ، پر توهان جو عطيو مونکي ڏيکاريندو ته منهنجو وقت مفت ترقي ڪرڻ ۾ خرچ ڪيو ويو ، ڪابه اشتهارسازي ايپس نه هئي.</string> 
+    <string name="donate_thanks">مهرباني!</string> 
+    <string name="small">نن Smallي</string> 
+    <string name="medium">وچٿرو</string> 
+    <string name="large">وڏي</string> 
+    <string name="small_heart">نن heartي دل</string> 
+    <string name="medium_heart">وچولي دل</string> 
+    <string name="large_heart">وڏي دل</string> 
+    <string name="action_donate">ڊولپر کي تحفي ڏيو</string> 
+    <string name="donate_title">عطيو ڏيو</string> 
+    <string name="donate_greeting">هيلو!</string> 
+    <string name="upgrade_message2">جيڪڏهن توهان هن ائپ مان لطف اندوز ٿي رهيا آهيو ته آئون ترقي ڪري رهي آهيان ، مهرباني ڪري منهنجي اپگريڊ ايپ خريد ڪرڻ تي غور ڪريو.</string> 
+    <string name="upgrade_message3">اپڊيٽ ڪرڻ واري ائپ ۾ نشان لڳائڻ لاءِ چيڪ باڪس شامل آهن جڏهن توهان جا بل يا سکن ختم ٿي ويا ، ۽ توهان جي خريداري مون کي ظاهر ڪندي ته منهنجو وقت مفت ترسڻ ۾ خرچ ڪيو ويو ، اشتهارسازي ايپس نه ساراهيو ويو آهي.</string> 
+    <string name="cash">ڪيش</string> 
+    <string name="change_due">مٽائڻ جي سبب</string> 
+    <string name="bills">بلز</string> 
+    <string name="large_number_error_toast">نقص: نمبر تمام وڏو آھي</string> 
+    <string name="upgrade">واڌاري ڪريو</string> 
+    <string name="coins">سکے</string> 
+    <string name="app_name">ڳڻپيوڪر تبديل ڪريو</string> 
+ </resources>

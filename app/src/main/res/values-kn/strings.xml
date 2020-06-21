@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">ಒಟ್ಟು</string> 
+    <string name="donate_message">ನನ್ನ ಹೆಸರು ಅಮಂಡಾ.</string> 
+    <string name="donate_message2">ನಾನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ನೀವು ಆನಂದಿಸುತ್ತಿದ್ದರೆ, ದಯವಿಟ್ಟು ನನ್ನ ದೇಣಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಖರೀದಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ.</string> 
+    <string name="donate_message3">ದೇಣಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಏನನ್ನೂ ಮಾಡುವುದಿಲ್ಲ, ಆದರೆ ನಿಮ್ಮ ಕೊಡುಗೆ ಉಚಿತ, ಜಾಹೀರಾತುಗಳಿಲ್ಲದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ನನ್ನ ಸಮಯವನ್ನು ಮೆಚ್ಚಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.</string> 
+    <string name="donate_thanks">ಧನ್ಯವಾದಗಳು!</string> 
+    <string name="small">ಸಣ್ಣ</string> 
+    <string name="medium">ಮಾಧ್ಯಮ</string> 
+    <string name="large">ದೊಡ್ಡದು</string> 
+    <string name="small_heart">ಸಣ್ಣ ಹೃದಯ</string> 
+    <string name="medium_heart">ಮಧ್ಯಮ ಹೃದಯ</string> 
+    <string name="large_heart">ದೊಡ್ಡ ಹೃದಯ</string> 
+    <string name="action_donate">ಡೆವಲಪರ್‌ಗೆ ದಾನ ಮಾಡಿ</string> 
+    <string name="donate_title">ದಾನ</string> 
+    <string name="donate_greeting">ಹಲೋ!</string> 
+    <string name="upgrade_message2">ನಾನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ನೀವು ಆನಂದಿಸುತ್ತಿದ್ದರೆ, ದಯವಿಟ್ಟು ನನ್ನ ಅಪ್‌ಗ್ರೇಡ್ ಅಪ್ಲಿಕೇಶನ್ ಖರೀದಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ.</string> 
+    <string name="upgrade_message3">ಅಪ್‌ಗ್ರೇಡ್ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ನೀವು ಬಿಲ್‌ಗಳು ಅಥವಾ ನಾಣ್ಯಗಳು ಖಾಲಿಯಾದಾಗ ಗುರುತು ಹಾಕುವ ಚೆಕ್‌ಬಾಕ್ಸ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ, ಮತ್ತು ನಿಮ್ಮ ಖರೀದಿಯು ನನ್ನ ಸಮಯವನ್ನು ಉಚಿತ, ಯಾವುದೇ ಜಾಹೀರಾತುಗಳ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ಖರ್ಚು ಮಾಡಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.</string> 
+    <string name="cash">ನಗದು</string> 
+    <string name="change_due">ಕಾರಣವನ್ನು ಬದಲಾಯಿಸಿ</string> 
+    <string name="bills">ಮಸೂದೆಗಳು</string> 
+    <string name="large_number_error_toast">ದೋಷ: ಸಂಖ್ಯೆ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ</string> 
+    <string name="upgrade">ನವೀಕರಿಸಿ</string> 
+    <string name="coins">ನಾಣ್ಯಗಳು</string> 
+    <string name="app_name">ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಬದಲಾಯಿಸಿ</string> 
+ </resources>

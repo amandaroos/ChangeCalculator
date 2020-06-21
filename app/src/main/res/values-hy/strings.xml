@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Ընդհանուր</string> 
+    <string name="donate_message">Իմ անունը Ամանդա է:</string> 
+    <string name="donate_message2">Եթե դուք վայելում եք իմ կողմից մշակված այս ծրագիրը, խնդրում ենք հաշվի առնել իմ նվիրատվության ծրագիրը:</string> 
+    <string name="donate_message3">Նվիրատվության հավելվածը ոչինչ չի անում, բայց ձեր նվիրատվությունը ցույց կտա ինձ, որ անվճար և առանց գովազդի հավելվածներ մշակելու համար իմ ժամանակն արժևորվում է:</string> 
+    <string name="donate_thanks">Շնորհակալություն:</string> 
+    <string name="small">Փոքր</string> 
+    <string name="medium">Միջին</string> 
+    <string name="large">Մեծ</string> 
+    <string name="small_heart">փոքր սիրտ</string> 
+    <string name="medium_heart">միջին սիրտ</string> 
+    <string name="large_heart">մեծ սիրտ</string> 
+    <string name="action_donate">Նվիրաբերեք ծրագրավորողին</string> 
+    <string name="donate_title">Նվիրաբերել</string> 
+    <string name="donate_greeting">Բարեւ Ձեզ!</string> 
+    <string name="upgrade_message2">Եթե դուք վայելում եք իմ կողմից մշակված այս ծրագիրը, խնդրում եմ հաշվի առեք ձեռք բերել իմ արդիականացված ծրագիրը:</string> 
+    <string name="upgrade_message3">Թարմացվող հավելվածն ընդգրկում է վանդակների կամ մետաղադրամների չեղարկման համար նշագրման վանդակներ, և ձեր գնումը ցույց կտա ինձ, որ անվճար և առանց գովազդային հավելվածներ մշակելու ժամանակ իմ ժամանակը գնահատվում է:</string> 
+    <string name="cash">Կանխիկ</string> 
+    <string name="change_due">Փոխել պատշաճ</string> 
+    <string name="bills">Օրինագծեր</string> 
+    <string name="large_number_error_toast">Սխալ. Թիվը շատ մեծ է</string> 
+    <string name="upgrade">Արդիականացում</string> 
+    <string name="coins">Մետաղադրամներ</string> 
+    <string name="app_name">Փոխեք հաշվիչը</string> 
+ </resources>

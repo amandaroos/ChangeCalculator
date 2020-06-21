@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Барлығы</string> 
+    <string name="donate_message">Менің атым Аманда.</string> 
+    <string name="donate_message2">Егер мен жасаған осы бағдарламаны ұнататын болсаңыз, менің қайырымдылық қосымшасын сатып алу туралы ойланыңыз.</string> 
+    <string name="donate_message3">Садақаға арналған бағдарлама ештеңе жасамайды, бірақ сіздің садақаңыз маған уақытты ақысыз, жарнамасыз қолданбаларды құруға жұмсаған уақытымның бағаланбайтындығын көрсетеді.</string> 
+    <string name="donate_thanks">Рахмет!</string> 
+    <string name="small">Шағын</string> 
+    <string name="medium">Орташа</string> 
+    <string name="large">Үлкен</string> 
+    <string name="small_heart">кішкентай жүрек</string> 
+    <string name="medium_heart">орташа жүрек</string> 
+    <string name="large_heart">үлкен жүрек</string> 
+    <string name="action_donate">Әзірлеушіге сыйға беріңіз</string> 
+    <string name="donate_title">Садақа беріңіз</string> 
+    <string name="donate_greeting">Сәлеметсіз бе!</string> 
+    <string name="upgrade_message2">Егер мен жасаған осы бағдарламаны ұнататын болсаңыз, менің жаңарту қосымшасын сатып алу туралы ойланыңыз.</string> 
+    <string name="upgrade_message3">Жаңарту бағдарламасында вексельдер мен монеталар таусылып қалғанда таңбалауға арналған құсбелгілер бар және сіздің сатып алуыңыз менің уақытты бос, жарнамасыз бағдарламаларды әзірлеуге жұмсалған уақытым бағаланатынын көрсетеді.</string> 
+    <string name="cash">Ақша</string> 
+    <string name="change_due">Төлемді өзгерту</string> 
+    <string name="bills">Вексельдер</string> 
+    <string name="large_number_error_toast">Қате: нөмір тым үлкен</string> 
+    <string name="upgrade">Жаңалау</string> 
+    <string name="coins">Монеталар</string> 
+    <string name="app_name">Калькуляторды өзгертіңіз</string> 
+ </resources>

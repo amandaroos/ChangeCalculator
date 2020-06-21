@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Pau loa</string> 
+    <string name="donate_message">ʻO ʻAmanda koʻu inoa.</string> 
+    <string name="donate_message2">Inā ʻoe e ʻoliʻoli nei i kēia noi aʻu i hoʻomohala ai, e noʻonoʻo e kūʻai i kaʻu app hāʻawi.</string> 
+    <string name="donate_message3">ʻAʻole hana kahi app hāʻawi, akā e hāʻawi ʻia kāu hāʻawi ʻana mai iaʻu i koʻu manawa i ka hoʻomohala ʻana i nā manuahi ʻole, ʻaʻohe mea hoʻolaha i ʻike ʻia.</string> 
+    <string name="donate_thanks">Mahalo!</string> 
+    <string name="small">Liʻiliʻi</string> 
+    <string name="medium">Waimea</string> 
+    <string name="large">Nui</string> 
+    <string name="small_heart">naʻau liʻiliʻi</string> 
+    <string name="medium_heart">naʻau waena</string> 
+    <string name="large_heart">puʻuwai nui</string> 
+    <string name="action_donate">Mālama i ka Hoʻoula</string> 
+    <string name="donate_title">Hāʻawi</string> 
+    <string name="donate_greeting">Aloha!</string> 
+    <string name="upgrade_message2">Inā ʻoe e ʻoliʻoli ana i kēia polokalamu āu i hoʻomohala ai, e noʻonoʻo e kūʻai i kaʻu hoʻonui ʻana i kā ʻia.</string> 
+    <string name="upgrade_message3">Hoʻokomo ʻia ka hoʻopiʻi ʻana i ka pahu kikooho no ka hōʻailona ʻana i ka wā e holo ai ʻoe i nā bila kālā a i ʻole mau kālā, a ʻo kāu kūʻai ʻana e hōʻike mai iaʻu i koʻu manawa i hoʻolilo ʻia i nā manuahi ʻole, ʻaʻohe mea hoʻolaha i ʻike ʻia.</string> 
+    <string name="cash">Kuhi</string> 
+    <string name="change_due">Hoʻololi</string> 
+    <string name="bills">Nā bila</string> 
+    <string name="large_number_error_toast">Hapa: ʻoi aku ka nui</string> 
+    <string name="upgrade">Hoʻohui</string> 
+    <string name="coins">Nā kaulike</string> 
+    <string name="app_name">Hoʻololi Calculator</string> 
+ </resources>

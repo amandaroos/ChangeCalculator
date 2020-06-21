@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">ټوله</string> 
+    <string name="donate_message">زما نوم امانډا دی</string> 
+    <string name="donate_message2">که تاسو د دې ایپ څخه خوند اخلئ چې ما پرمختللی کړی ، مهرباني وکړئ زما د بسپنه ایپ پیرودلو ته پام وکړئ.</string> 
+    <string name="donate_message3">د بسپنه ایپ هیڅ نه کوي ، مګر ستاسو مرسته به ما ته وښیې چې زما وخت د وړیا ، نه اعلاناتو ایپسونو په پراختیا کې مصرف کړی.</string> 
+    <string name="donate_thanks">مننه!</string> 
+    <string name="small">کوچنی</string> 
+    <string name="medium">وچ</string> 
+    <string name="large">لوی</string> 
+    <string name="small_heart">کوچنی زړه</string> 
+    <string name="medium_heart">منځنی زړه</string> 
+    <string name="large_heart">لوی زړه</string> 
+    <string name="action_donate">ودې کونکي ته ډونر کړئ</string> 
+    <string name="donate_title">مرسته وکړئ</string> 
+    <string name="donate_greeting">سلام!</string> 
+    <string name="upgrade_message2">که تاسو د دې ایپ څخه خوند اخلئ چې ما وده کړې ، مهرباني وکړئ زما د اپ گریڈ ایپ پیرودلو ته پام وکړئ.</string> 
+    <string name="upgrade_message3">د اپ گریڈ ایپ کې د نښه کولو لپاره چیک باکسونه شامل دي کله چې تاسو د بیلونو یا سکې څخه تیریږئ ، او ستاسو پیرود به ما ته وښیې چې زما وخت د وړیا ، نه اعلاناتو ایپسونو په پراختیا کې مصرف کړی.</string> 
+    <string name="cash">نغدي</string> 
+    <string name="change_due">د بدلون</string> 
+    <string name="bills">بیلونه</string> 
+    <string name="large_number_error_toast">خطا: شمیره ډیره ده</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="coins">سکې</string> 
+    <string name="app_name">کیلکولیټر بدل کړئ</string> 
+ </resources>

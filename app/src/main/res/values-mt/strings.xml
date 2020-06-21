@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Jisimni Amanda.</string> 
+    <string name="donate_message2">Jekk qed tgawdi din l-app li żviluppajt, jekk jogħġbok ikkunsidra li tixtri l-app tad-donazzjoni tiegħi.</string> 
+    <string name="donate_message3">L-app tad-donazzjoni ma tagħmel xejn, imma d-donazzjoni tiegħek jurini li l-ħin tiegħi mgħoddi jiżviluppa bla ħlas, l-ebda app ads huwa apprezzat.</string> 
+    <string name="donate_thanks">Grazzi!</string> 
+    <string name="small">Żgħar</string> 
+    <string name="medium">Medju</string> 
+    <string name="large">Kbar</string> 
+    <string name="small_heart">qalb żgħira</string> 
+    <string name="medium_heart">qalb medja</string> 
+    <string name="large_heart">qalb kbira</string> 
+    <string name="action_donate">Tagħmel donazzjoni lill-Iżviluppatur</string> 
+    <string name="donate_title">Id-donazzjoni</string> 
+    <string name="donate_greeting">Bongu!</string> 
+    <string name="upgrade_message2">Jekk qed tgawdi din l-app li żviluppajt, jekk jogħġbok ikkunsidra li tixtri l-app upgrade tiegħi.</string> 
+    <string name="upgrade_message3">L-app ta ’aġġornament tinkludi kaxxi ta’ kontroll għall-immarkar meta tispiċċa bil-kontijiet jew muniti, u x-xiri tiegħek jurini li l-ħin tiegħi mgħoddi jiżviluppa b’xejn, l-ebda app ads huwa apprezzat.</string> 
+    <string name="cash">Flus</string> 
+    <string name="change_due">Bidla Minħabba</string> 
+    <string name="bills">Abbozzi ta ’Liġi</string> 
+    <string name="large_number_error_toast">Żball: in-numru huwa kbir wisq</string> 
+    <string name="upgrade">Aġġorna</string> 
+    <string name="coins">Muniti</string> 
+    <string name="app_name">Kalkulatur tal-Bidla</string> 
+ </resources>

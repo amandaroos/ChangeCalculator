@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Gunggunge</string> 
+    <string name="donate_message">Nami kula Amanda.</string> 
+    <string name="donate_message2">Yen sampeyan seneng aplikasi iki sing dakkembangake, coba tuku app sumbangan.</string> 
+    <string name="donate_message3">Aplikasi sumbangan ora nindakake apa-apa, nanging sumbangan sampeyan bakal nuduhake manawa wektuku nggarap ngembangake aplikasi gratis, ora ana iklan.</string> 
+    <string name="donate_thanks">Thanks!</string> 
+    <string name="small">Cilik</string> 
+    <string name="medium">Sedheng</string> 
+    <string name="large">Gedhe</string> 
+    <string name="small_heart">jantung cilik</string> 
+    <string name="medium_heart">medium ati</string> 
+    <string name="large_heart">jantung gedhe</string> 
+    <string name="action_donate">Sumbang menyang Pangembang</string> 
+    <string name="donate_title">Sumbang</string> 
+    <string name="donate_greeting">Halo!</string> 
+    <string name="upgrade_message2">Yen sampeyan seneng app iki sing dakkembangake, coba tuku app upgrade.</string> 
+    <string name="upgrade_message3">Aplikasi upgrade kalebu kothak centhang kanggo menehi tandha nalika sampeyan mbayar tagihan utawa dhuwit recehan, lan sing sampeyan tuku bakal nuduhake manawa wektuku nggarap ngembangake aplikasi gratis, ora ana iklan.</string> 
+    <string name="cash">Kas</string> 
+    <string name="change_due">Ganti</string> 
+    <string name="bills">Tagihan</string> 
+    <string name="large_number_error_toast">Kesalahan: nomer akeh banget</string> 
+    <string name="upgrade">Nganyarke</string> 
+    <string name="coins">Dhuwit recehan</string> 
+    <string name="app_name">Ganti Kalkulator</string> 
+ </resources>

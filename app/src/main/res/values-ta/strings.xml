@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">மொத்தம்</string> 
+    <string name="donate_message">என் பெயர் அமண்டா.</string> 
+    <string name="donate_message2">நான் உருவாக்கிய இந்த பயன்பாட்டை நீங்கள் ரசிக்கிறீர்கள் என்றால், எனது நன்கொடை பயன்பாட்டை வாங்குவதைக் கவனியுங்கள்.</string> 
+    <string name="donate_message3">நன்கொடை பயன்பாடு எதுவும் செய்யாது, ஆனால் உங்கள் நன்கொடை இலவச, விளம்பரங்கள் இல்லாத பயன்பாடுகளை உருவாக்க நான் செலவழித்த நேரம் பாராட்டப்படும் என்பதைக் காண்பிக்கும்.</string> 
+    <string name="donate_thanks">நன்றி!</string> 
+    <string name="small">சிறிய</string> 
+    <string name="medium">நடுத்தர</string> 
+    <string name="large">பெரியது</string> 
+    <string name="small_heart">சிறிய இதயம்</string> 
+    <string name="medium_heart">நடுத்தர இதயம்</string> 
+    <string name="large_heart">பெரிய இதயம்</string> 
+    <string name="action_donate">டெவலப்பருக்கு நன்கொடை</string> 
+    <string name="donate_title">நன்கொடை</string> 
+    <string name="donate_greeting">வணக்கம்!</string> 
+    <string name="upgrade_message2">நான் உருவாக்கிய இந்த பயன்பாட்டை நீங்கள் ரசிக்கிறீர்கள் என்றால், எனது மேம்படுத்தல் பயன்பாட்டை வாங்குவதைக் கவனியுங்கள்.</string> 
+    <string name="upgrade_message3">மேம்படுத்தல் பயன்பாட்டில் நீங்கள் பில்கள் அல்லது நாணயங்கள் வெளியேறும்போது குறிப்பதற்கான தேர்வுப்பெட்டிகள் அடங்கும், மேலும் இலவச, விளம்பரங்கள் இல்லாத பயன்பாடுகளை உருவாக்குவதற்கு நான் செலவழித்த நேரத்தை பாராட்டுவதாக உங்கள் கொள்முதல் எனக்குக் காண்பிக்கும்.</string> 
+    <string name="cash">பணம்</string> 
+    <string name="change_due">மாற்றத்தை மாற்றவும்</string> 
+    <string name="bills">பில்கள்</string> 
+    <string name="large_number_error_toast">பிழை: எண் மிகப் பெரியது</string> 
+    <string name="upgrade">மேம்படுத்தல்</string> 
+    <string name="coins">நாணயங்கள்</string> 
+    <string name="app_name">கால்குலேட்டரை மாற்றவும்</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Jeg hedder Amanda.</string> 
+    <string name="donate_message2">Hvis du nyder denne app, jeg har udviklet, skal du overveje at købe min donationsapp.</string> 
+    <string name="donate_message3">Donationsappen gør ikke noget, men din donation viser mig, at min tid til at udvikle gratis apps uden annoncer er værdsat.</string> 
+    <string name="donate_thanks">Tak!</string> 
+    <string name="small">Lille</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Stor</string> 
+    <string name="small_heart">lille hjerte</string> 
+    <string name="medium_heart">medium hjerte</string> 
+    <string name="large_heart">stort hjerte</string> 
+    <string name="action_donate">Doner til udvikleren</string> 
+    <string name="donate_title">Doner</string> 
+    <string name="donate_greeting">Hej!</string> 
+    <string name="upgrade_message2">Hvis du nyder denne app, jeg har udviklet, skal du overveje at købe min opgraderingsapp.</string> 
+    <string name="upgrade_message3">Opgraderingsappen indeholder afkrydsningsfelter til mærkning, når du løber tør for regninger eller mønter, og dit køb viser mig, at min tid til at udvikle gratis apps uden annoncer værdsættes.</string> 
+    <string name="cash">Kontanter</string> 
+    <string name="change_due">Ændring på grund</string> 
+    <string name="bills">sedler</string> 
+    <string name="large_number_error_toast">Fejl: nummeret er for stort</string> 
+    <string name="upgrade">Opgrader</string> 
+    <string name="coins">mønter</string> 
+    <string name="app_name">Skift lommeregner</string> 
+ </resources>

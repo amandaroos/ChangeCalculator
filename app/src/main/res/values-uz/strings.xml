@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Jami</string> 
+    <string name="donate_message">Mening ismim Amanda.</string> 
+    <string name="donate_message2">Agar men ishlab chiqqan ushbu ilova sizga yoqsa, iltimos, xayr-ehson qilish dasturimni sotib oling.</string> 
+    <string name="donate_message3">Xayriya qilish dasturi hech narsa qilmaydi, lekin sizning xayr-ehsoningiz mening vaqtimni bepul, reklamasiz ilovalarni ishlab chiqishga sarflaganimni ko\'rsatadi.</string> 
+    <string name="donate_thanks">Rahmat!</string> 
+    <string name="small">Kichik</string> 
+    <string name="medium">O\'rta</string> 
+    <string name="large">Katta</string> 
+    <string name="small_heart">kichik yurak</string> 
+    <string name="medium_heart">o\'rta yurak</string> 
+    <string name="large_heart">katta yurak</string> 
+    <string name="action_donate">Ishlab chiquvchiga xayriya qiling</string> 
+    <string name="donate_title">Xayriya qiling</string> 
+    <string name="donate_greeting">Salom!</string> 
+    <string name="upgrade_message2">Agar men ishlab chiqqan ushbu ilova sizga yoqsa, iltimos, mening yangilanish dasturimni sotib oling.</string> 
+    <string name="upgrade_message3">Yangilanish ilovasida pul yoki tangalar tugaganida belgilash uchun katakchalar mavjud va sizning xaridingiz mening bepul, reklamasiz ilovalarni ishlab chiqishga sarflagan vaqtim qadrli ekanligini ko\'rsatadi.</string> 
+    <string name="cash">Naqd pul</string> 
+    <string name="change_due">To\'lovni o\'zgartirish</string> 
+    <string name="bills">Hisob-kitob hujjatlari</string> 
+    <string name="large_number_error_toast">Xato: raqam juda katta</string> 
+    <string name="upgrade">Yangilang</string> 
+    <string name="coins">Tangalar</string> 
+    <string name="app_name">Kalkulyatorni o\'zgartirish</string> 
+ </resources>

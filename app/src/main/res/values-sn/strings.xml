@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Zvese</string> 
+    <string name="donate_message">Ini ndinonzi Amanda.</string> 
+    <string name="donate_message2">Kana iwe uri kunakidzwa neapp iyi yandakagadzira, ndapota funga nezvekutenga yangu donho app.</string> 
+    <string name="donate_message3">App yekupa haina kuita chero chinhu, asi chako mupiro chinondiratidza kuti yangu nguva yakashandiswa kukudziridza emahara, hapana-ads maapps anoongwa.</string> 
+    <string name="donate_thanks">Ndatenda!</string> 
+    <string name="small">Zvishoma</string> 
+    <string name="medium">Pakati</string> 
+    <string name="large">Yakakura</string> 
+    <string name="small_heart">mwoyo diki</string> 
+    <string name="medium_heart">moyo wepakati</string> 
+    <string name="large_heart">moyo wakakura</string> 
+    <string name="action_donate">Ipa kune Kusimudzira</string> 
+    <string name="donate_title">Kupa</string> 
+    <string name="donate_greeting">Mhoro!</string> 
+    <string name="upgrade_message2">Kana iwe uri kunakidzwa neapp iyi yandakagadzira, ndapota funga nezvekutenga yangu yekusimudzira app.</string> 
+    <string name="upgrade_message3">Iyo yekuvandudza app inosanganisira kutarisa mabokisi ekumaka kana iwe uchinge wapererwa nemabhiri kana emari, uye kutenga kwako kunondiratidza kuti nguva yangu yakapera kuvandudza emahara, hapana-ads maapps anoongwa.</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Chinja Zvakakodzera</string> 
+    <string name="bills">Mabhiri</string> 
+    <string name="large_number_error_toast">Kukanganisa: nhamba yakakura kwazvo</string> 
+    <string name="upgrade">Simudza</string> 
+    <string name="coins">Mari</string> 
+    <string name="app_name">Chinja Calculator</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Hemî</string> 
+    <string name="donate_message">Navê min Amanda ye.</string> 
+    <string name="donate_message2">Heke hûn ji vê sepana ku min pêşxistî kêfxweş dikin, ji kerema xwe bifikirin ku hûn sepana donara min bikirin.</string> 
+    <string name="donate_message3">Serlêdana xêrxwaziyê tiştek nake, lê donara we dê nîşanî min bide ku wextê min pêşvekirina belaş, serlêdanên bê-reklam nayên pesn kirin.</string> 
+    <string name="donate_thanks">Spas!</string> 
+    <string name="small">Biçûk</string> 
+    <string name="medium">Medya</string> 
+    <string name="large">Mezin</string> 
+    <string name="small_heart">dilê piçûk</string> 
+    <string name="medium_heart">Dilê navîn</string> 
+    <string name="large_heart">dil mezin</string> 
+    <string name="action_donate">Pêşkeftinê bidin</string> 
+    <string name="donate_title">Bêşdan</string> 
+    <string name="donate_greeting">Slav!</string> 
+    <string name="upgrade_message2">Heke hûn ji vê sepana ku min pêşve kiriye kêfxweş dikin, ji kerema xwe bifikirin ku hûn sepana nûvekirina min kirîn.</string> 
+    <string name="upgrade_message3">Serlêdana nûvekirinê ji nîşankirinan vedigere dema ku hûn ji bill an coins xelas dibin, û kirîna we dê ji min re destnîşan bike ku dema min geşedana pêşxistina belaş, serlêdanên bê-reklam nayên pesn kirin.</string> 
+    <string name="cash">Xûrdekirin</string> 
+    <string name="change_due">Sedem guherîn</string> 
+    <string name="bills">Bilbil</string> 
+    <string name="large_number_error_toast">Rorewtî: hejmar pir zêde ye</string> 
+    <string name="upgrade">Nûvekirin</string> 
+    <string name="coins">Coin</string> 
+    <string name="app_name">Hesabker biguhezînin</string> 
+ </resources>

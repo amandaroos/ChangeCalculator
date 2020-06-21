@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Całkowity</string> 
+    <string name="donate_message">Mam na imię Amanda.</string> 
+    <string name="donate_message2">Jeśli podoba Ci się ta aplikacja, którą opracowałem, rozważ zakup mojej aplikacji do darowizn.</string> 
+    <string name="donate_message3">Aplikacja do darowizn nic nie robi, ale Twoja darowizna pokaże, że doceniam mój czas spędzony na tworzeniu darmowych aplikacji bez reklam.</string> 
+    <string name="donate_thanks">Dzięki!</string> 
+    <string name="small">Mały</string> 
+    <string name="medium">Średni</string> 
+    <string name="large">Duży</string> 
+    <string name="small_heart">małe serce</string> 
+    <string name="medium_heart">średnie serce</string> 
+    <string name="large_heart">wielkie serce</string> 
+    <string name="action_donate">Przekaż darowiznę na programistę</string> 
+    <string name="donate_title">Podarować</string> 
+    <string name="donate_greeting">Witaj!</string> 
+    <string name="upgrade_message2">Jeśli podoba Ci się ta aplikacja, którą opracowałem, rozważ zakup mojej aplikacji do aktualizacji.</string> 
+    <string name="upgrade_message3">Aplikacja do aktualizacji zawiera pola wyboru do oznaczania, kiedy zabraknie rachunków lub monet, a twój zakup pokaże mi, że doceniam mój czas spędzony na tworzeniu darmowych aplikacji bez reklam.</string> 
+    <string name="cash">Gotówka</string> 
+    <string name="change_due">Zmień termin</string> 
+    <string name="bills">Rachunki</string> 
+    <string name="large_number_error_toast">Błąd: liczba jest za duża</string> 
+    <string name="upgrade">Aktualizacja</string> 
+    <string name="coins">Monety</string> 
+    <string name="app_name">Zmień kalkulator</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">總</string> 
+    <string name="donate_message">我叫阿曼達。</string> 
+    <string name="donate_message2">如果您喜歡我開發的這個應用程序，請考慮購買我的捐贈應用程序。</string> 
+    <string name="donate_message3">捐贈應用程序不做任何事情，但是您的捐贈將告訴我，我花費在開發免費，無廣告應用程序上的時間受到了讚賞。</string> 
+    <string name="donate_thanks">謝謝！</string> 
+    <string name="small">小</string> 
+    <string name="medium">中</string> 
+    <string name="large">大</string> 
+    <string name="small_heart">小小的心</string> 
+    <string name="medium_heart">中等的心</string> 
+    <string name="large_heart">大心臟</string> 
+    <string name="action_donate">捐贈給開發者</string> 
+    <string name="donate_title">捐</string> 
+    <string name="donate_greeting">你好！</string> 
+    <string name="upgrade_message2">如果您喜歡我開發的這個應用程序，請考慮購買我的升級應用程序。</string> 
+    <string name="upgrade_message3">升級應用程序包含複選框，用於在您的鈔票或硬幣用完時進行標記，您的購買將向我表明我開發免費的無廣告應用程序所花費的時間受到讚賞。</string> 
+    <string name="cash">現金</string> 
+    <string name="change_due">更改到期</string> 
+    <string name="bills">賬單</string> 
+    <string name="large_number_error_toast">錯誤：數量太大</string> 
+    <string name="upgrade">升級</string> 
+    <string name="coins">硬幣</string> 
+    <string name="app_name">變更計算器</string> 
+ </resources>

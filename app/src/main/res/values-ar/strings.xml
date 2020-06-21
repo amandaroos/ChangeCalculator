@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">مجموع</string> 
+    <string name="donate_message">اسمي أماندا.</string> 
+    <string name="donate_message2">إذا كنت تستمتع بهذا التطبيق الذي طورته ، فيرجى التفكير في شراء تطبيق التبرع الخاص بي.</string> 
+    <string name="donate_message3">لا يفعل تطبيق التبرع أي شيء ، لكن تبرعك سيوضح لي أن وقتي الذي قضيته في تطوير تطبيقات مجانية بدون إعلانات هو أمر محل تقدير.</string> 
+    <string name="donate_thanks">شكر!</string> 
+    <string name="small">صغير</string> 
+    <string name="medium">متوسط</string> 
+    <string name="large">كبير</string> 
+    <string name="small_heart">قلب صغير</string> 
+    <string name="medium_heart">قلب متوسط</string> 
+    <string name="large_heart">قلب كبير</string> 
+    <string name="action_donate">تبرع للمطور</string> 
+    <string name="donate_title">تبرع</string> 
+    <string name="donate_greeting">مرحبا!</string> 
+    <string name="upgrade_message2">إذا كنت تستمتع بهذا التطبيق الذي طورته ، فيرجى التفكير في شراء تطبيق الترقية الخاص بي.</string> 
+    <string name="upgrade_message3">يتضمن تطبيق الترقية مربعات اختيار لوضع علامة عند نفاد الفواتير أو العملات المعدنية ، وسيظهر لي الشراء أن وقتي الذي قضيته في تطوير تطبيقات مجانية بدون إعلانات أمر محل تقدير.</string> 
+    <string name="cash">السيولة النقدية</string> 
+    <string name="change_due">تغيير المستحقة</string> 
+    <string name="bills">فواتير</string> 
+    <string name="large_number_error_toast">خطأ: الرقم أكبر مما يجب</string> 
+    <string name="upgrade">تطوير</string> 
+    <string name="coins">عملات معدنية</string> 
+    <string name="app_name">حاسبة التغيير</string> 
+ </resources>

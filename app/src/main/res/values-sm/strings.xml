@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Aofai</string> 
+    <string name="donate_message">O loʻu igoa o Amanda.</string> 
+    <string name="donate_message2">Afai o loʻo e fiafia i lenei app na ou atiaʻeina, faʻamolemole mafaufau i le faʻatauina o laʻu foaʻi app.</string> 
+    <string name="donate_message3">O le foai polokalama e le faia se mea, ae o lau foaʻi mai o le a faʻaalia mai ia te aʻu o loʻu taimi faʻaalu e faʻaalu fua, leai-faʻalauiloa polokalama talisapaia.</string> 
+    <string name="donate_thanks">Faʻafetai!</string> 
+    <string name="small">Laitiiti</string> 
+    <string name="medium">Feololo</string> 
+    <string name="large">Tele</string> 
+    <string name="small_heart">laitiiti le loto</string> 
+    <string name="medium_heart">loto feololo</string> 
+    <string name="large_heart">lapoa lona fatu</string> 
+    <string name="action_donate">Fesoasoani i le au fai atiaʻe</string> 
+    <string name="donate_title">Foaʻi</string> 
+    <string name="donate_greeting">Talofa!</string> 
+    <string name="upgrade_message2">Afai o loʻo e fiafia i lenei app na ou atinaʻeina, faʻamolemole mafaufau e faʻatau loʻu polokalame fou.</string> 
+    <string name="upgrade_message3">O le faʻaleleia o le polokalama e aofia ai pusa faʻailoga mo le faʻailogaina pe a leai ni pili poʻo ni tupe siliva, ma o lau faʻatauga o le a faʻaalia mai ai ia te aʻu o loʻu taimi faʻaalu e galueaina leai ni faʻasalalauga apps talisapaia.</string> 
+    <string name="cash">Tupe</string> 
+    <string name="change_due">Suia Tatau</string> 
+    <string name="bills">Tulafono Tau Faaofi</string> 
+    <string name="large_number_error_toast">Sese: numera e tele naua</string> 
+    <string name="upgrade">Faʻalelei</string> 
+    <string name="coins">Tupe siliva</string> 
+    <string name="app_name">Suia le mea fuafua</string> 
+ </resources>

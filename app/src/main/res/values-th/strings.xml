@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">รวม</string> 
+    <string name="donate_message">ฉันชื่ออแมนดา</string> 
+    <string name="donate_message2">หากคุณเพลิดเพลินกับแอพนี้ที่ฉันพัฒนาขึ้นโปรดลองซื้อแอพบริจาคของฉัน</string> 
+    <string name="donate_message3">แอพบริจาคไม่ได้ทำอะไรเลย แต่การบริจาคของคุณจะแสดงให้ฉันเห็นว่าเวลาของฉันที่ใช้ไปกับการพัฒนาแอพฟรีไม่มีโฆษณาได้รับการชื่นชม</string> 
+    <string name="donate_thanks">ขอบคุณ!</string> 
+    <string name="small">เล็ก</string> 
+    <string name="medium">กลาง</string> 
+    <string name="large">ใหญ่</string> 
+    <string name="small_heart">หัวใจเล็ก ๆ</string> 
+    <string name="medium_heart">หัวใจกลาง</string> 
+    <string name="large_heart">หัวใจขนาดใหญ่</string> 
+    <string name="action_donate">บริจาคให้ผู้พัฒนา</string> 
+    <string name="donate_title">บริจาค</string> 
+    <string name="donate_greeting">สวัสดี!</string> 
+    <string name="upgrade_message2">หากคุณเพลิดเพลินกับแอพนี้ที่ฉันพัฒนาโปรดพิจารณาซื้อแอปอัปเกรดของฉัน</string> 
+    <string name="upgrade_message3">แอพอัพเกรดมีช่องทำเครื่องหมายสำหรับการทำเครื่องหมายเมื่อคุณหมดเงินหรือเหรียญและการซื้อของคุณจะแสดงให้ฉันเห็นว่าเวลาของฉันที่ใช้ไปกับการพัฒนาแอพฟรีไม่มีโฆษณาชื่นชม</string> 
+    <string name="cash">เงินสด</string> 
+    <string name="change_due">เปลี่ยนกำหนด</string> 
+    <string name="bills">ธนบัตร</string> 
+    <string name="large_number_error_toast">ข้อผิดพลาด: หมายเลขมีขนาดใหญ่เกินไป</string> 
+    <string name="upgrade">อัพเกรด</string> 
+    <string name="coins">เหรียญ</string> 
+    <string name="app_name">เปลี่ยนเครื่องคิดเลข</string> 
+ </resources>

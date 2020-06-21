@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Total</string> 
+    <string name="donate_message">Numele meu este Amanda.</string> 
+    <string name="donate_message2">Dacă vă bucurați de această aplicație pe care am dezvoltat-o, vă rugăm să luați în considerare achiziționarea aplicației mele de donație.</string> 
+    <string name="donate_message3">Aplicația de donare nu face nimic, dar donația dvs. îmi va arăta că timpul petrecut dezvoltând aplicații gratuite, fără reclame, este apreciat.</string> 
+    <string name="donate_thanks">Mulțumiri!</string> 
+    <string name="small">Mic</string> 
+    <string name="medium">Mediu</string> 
+    <string name="large">Mare</string> 
+    <string name="small_heart">inimă mică</string> 
+    <string name="medium_heart">inima medie</string> 
+    <string name="large_heart">inima mare</string> 
+    <string name="action_donate">Donează dezvoltatorului</string> 
+    <string name="donate_title">Donează</string> 
+    <string name="donate_greeting">Buna!</string> 
+    <string name="upgrade_message2">Dacă vă bucurați de această aplicație pe care am dezvoltat-o, vă rugăm să luați în considerare achiziționarea aplicației mele de actualizare.</string> 
+    <string name="upgrade_message3">Aplicația de upgrade include casetele de selectare pentru marcaj atunci când rămâneți fără facturi sau monede, iar achiziția dvs. îmi va arăta că timpul petrecut dezvoltând aplicații gratuite, fără reclame, este apreciat.</string> 
+    <string name="cash">Bani lichizi</string> 
+    <string name="change_due">Schimbarea cuvenită</string> 
+    <string name="bills">Bancnote</string> 
+    <string name="large_number_error_toast">Eroare: numărul este prea mare</string> 
+    <string name="upgrade">Actualizare</string> 
+    <string name="coins">Monede</string> 
+    <string name="app_name">Schimbă calculatorul</string> 
+ </resources>

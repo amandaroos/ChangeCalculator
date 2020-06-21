@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Lapapọ</string> 
+    <string name="donate_message">Orukọ mi ni Amanda.</string> 
+    <string name="donate_message2">Ti o ba n gbadun app yii ti Mo dagbasoke, jọwọ ro rira rira ohun elo ẹbun mi.</string> 
+    <string name="donate_message3">Ìfilọlẹ ọrẹ ko ṣe ohunkohun, ṣugbọn ẹbun rẹ yoo fihan mi pe akoko mi lo akoko ti n dagbasoke ni ọfẹ, ko si awọn ohun elo ipolowo-ipolowo mọ.</string> 
+    <string name="donate_thanks">O ṣeun!</string> 
+    <string name="small">Kekere</string> 
+    <string name="medium">Alabọde</string> 
+    <string name="large">Nla</string> 
+    <string name="small_heart">okan kekere</string> 
+    <string name="medium_heart">alabọde</string> 
+    <string name="large_heart">okan ti o tobi</string> 
+    <string name="action_donate">Ṣetọrẹ si Onitumọ</string> 
+    <string name="donate_title">Ṣetọrẹ</string> 
+    <string name="donate_greeting">Pẹlẹ o!</string> 
+    <string name="upgrade_message2">Ti o ba n gbadun app yii ti Mo dagbasoke, jọwọ ro rira ohun elo igbesoke mi.</string> 
+    <string name="upgrade_message3">Ìfilọlẹ igbesoke pẹlu awọn apoti ayẹwo fun siṣamisi nigba ti o ba pari awọn owo-owo tabi awọn owó, ati rira rẹ yoo fihan mi pe akoko mi ti lo dagbasoke ni ọfẹ, ko si awọn ohun elo ipolowo-ipolowo mọ.</string> 
+    <string name="cash">Owo</string> 
+    <string name="change_due">Yi Nitori</string> 
+    <string name="bills">Owo</string> 
+    <string name="large_number_error_toast">Aṣiṣe: nọmba ti tobi ju</string> 
+    <string name="upgrade">Igbesoke</string> 
+    <string name="coins">Awọn owo</string> 
+    <string name="app_name">Ẹrọ Ẹrọ iyipada</string> 
+ </resources>

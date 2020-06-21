@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Ganzen</string> 
+    <string name="donate_message">Mäin Numm ass Amanda.</string> 
+    <string name="donate_message2">Wann Dir dës App genéisst déi ech entwéckelt hunn, betruecht w.e.g. meng Spende-App.</string> 
+    <string name="donate_message3">Accipe, donationem recordare</string> 
+    <string name="donate_thanks">Merci!</string> 
+    <string name="small">Kleng</string> 
+    <string name="medium">Mëttel-</string> 
+    <string name="large">Grouss</string> 
+    <string name="small_heart">klengt Häerz</string> 
+    <string name="medium_heart">mëttel- Häerz</string> 
+    <string name="large_heart">grousst Häerz</string> 
+    <string name="action_donate">Spenden un den Entwéckler</string> 
+    <string name="donate_title">Spenden</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="upgrade_message2">Wann Dir dës App genéisst déi ech entwéckelt hunn, betruecht w.e.g. meng Upgrade App ze kafen.</string> 
+    <string name="upgrade_message3">D\'Aktualiséierungsapp enthält Checkboxe fir Marquage wann Dir Rechnungen oder Mënzen leeft, an Ären Akaaf wäert mir weisen datt meng Zäit fir fräi, ouni Annoncë Apps z\'entwéckelen appréciéiert gëtt.</string> 
+    <string name="cash">Keess</string> 
+    <string name="change_due">Ännerung wéinst</string> 
+    <string name="bills">Rechnungen</string> 
+    <string name="large_number_error_toast">Feeler: D\'Nummer ass ze grouss</string> 
+    <string name="upgrade">Erweiderung</string> 
+    <string name="coins">Mënzen</string> 
+    <string name="app_name">Rechner änneren</string> 
+ </resources>

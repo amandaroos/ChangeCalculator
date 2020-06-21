@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Cyfanswm</string> 
+    <string name="donate_message">Fy enw i yw Amanda.</string> 
+    <string name="donate_message2">Os ydych chi\'n mwynhau\'r app hon a ddatblygais, ystyriwch brynu fy app rhoi.</string> 
+    <string name="donate_message3">Nid yw\'r app rhoi yn gwneud unrhyw beth, ond bydd eich rhodd yn dangos i mi fod fy amser a dreulir yn datblygu apiau dim hysbysebion am ddim yn cael ei werthfawrogi.</string> 
+    <string name="donate_thanks">Diolch!</string> 
+    <string name="small">Bach</string> 
+    <string name="medium">Canolig</string> 
+    <string name="large">Mawr</string> 
+    <string name="small_heart">calon fach</string> 
+    <string name="medium_heart">calon ganolig</string> 
+    <string name="large_heart">calon fawr</string> 
+    <string name="action_donate">Cyfrannu at y Datblygwr</string> 
+    <string name="donate_title">Cyfrannu</string> 
+    <string name="donate_greeting">Helo!</string> 
+    <string name="upgrade_message2">Os ydych chi\'n mwynhau\'r app hon a ddatblygais, ystyriwch brynu fy app uwchraddio.</string> 
+    <string name="upgrade_message3">Mae\'r ap uwchraddio yn cynnwys blychau gwirio i\'w marcio pan fyddwch chi\'n rhedeg allan o filiau neu ddarnau arian, a bydd eich pryniant yn dangos i mi fod fy amser a dreulir yn datblygu apiau dim hysbysebion am ddim yn cael ei werthfawrogi.</string> 
+    <string name="cash">Arian Parod</string> 
+    <string name="change_due">Newid yn ddyledus</string> 
+    <string name="bills">Biliau</string> 
+    <string name="large_number_error_toast">Gwall: mae\'r nifer yn rhy fawr</string> 
+    <string name="upgrade">Uwchraddio</string> 
+    <string name="coins">Arian</string> 
+    <string name="app_name">Cyfrifiannell Newid</string> 
+ </resources>

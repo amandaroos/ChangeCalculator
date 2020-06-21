@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Kakaretso</string> 
+    <string name="donate_message">Lebitso la ka ke Amanda.</string> 
+    <string name="donate_message2">Haeba o natefeloa ke sesebelisoa sena seo ke se hlahisitseng, ka kopo nahana ka ho reka sesebelisoa sa ka sa monehelo.</string> 
+    <string name="donate_message3">Sesebelisoa sa monehelo ha se etse letho, empa monehelo oa hau o tla mponts\'a hore nako ea ka e sebelisitsoeng ho nts\'etsapele li-software tsa mahala, tse se nang lipapatso li ananeloa.</string> 
+    <string name="donate_thanks">Kea leboha!</string> 
+    <string name="small">Nyane</string> 
+    <string name="medium">Bohareng</string> 
+    <string name="large">E kholo</string> 
+    <string name="small_heart">pelo e nyane</string> 
+    <string name="medium_heart">pelo e mahareng</string> 
+    <string name="large_heart">pelo e kholo</string> 
+    <string name="action_donate">Fana ka Moqapi</string> 
+    <string name="donate_title">Fana ka chelete</string> 
+    <string name="donate_greeting">Lumela!</string> 
+    <string name="upgrade_message2">Haeba o natefeloa ke app ena eo ke e hlahisitseng, ka kopo nahana ka ho reka app e ntlafatsang.</string> 
+    <string name="upgrade_message3">Sesebelisoa sa ntlafatso se kenyelletsa mabokose a ho tšoaea ha o felloa ke likoloto kapa lichelete tsa tšepe, \'me theko ea hau e tla mponts\'a hore nako ea ka e sebelisitsoeng ho nts\'etsapele li-software tsa mahala, tse se nang lipapatso li ananeloa.</string> 
+    <string name="cash">Cash</string> 
+    <string name="change_due">Fetoha e Lokela</string> 
+    <string name="bills">Likoloto</string> 
+    <string name="large_number_error_toast">Phoso: palo e kholo haholo</string> 
+    <string name="upgrade">ntlafatsa</string> 
+    <string name="coins">Lichelete tsa tšepe</string> 
+    <string name="app_name">Fetola Calculator</string> 
+ </resources>

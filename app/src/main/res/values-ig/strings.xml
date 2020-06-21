@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Ngụkọta</string> 
+    <string name="donate_message">Aha m bụ Amanda.</string> 
+    <string name="donate_message2">Ọ bụrụ n’inweta ngwa a m zụlitere, biko cheta ịzụta ngwa onyinye m.</string> 
+    <string name="donate_message3">Ngwa onyinye anaghị eme ihe ọ bụla, mana onyinye gị ga-egosi m na oge m nọrọ na-etolite na ntanetị, enweghị ngwa mgbasa ozi anaghị enwe ekele.</string> 
+    <string name="donate_thanks">Daalụ!</string> 
+    <string name="small">Obere</string> 
+    <string name="medium">Ọkara</string> 
+    <string name="large">Nnukwu</string> 
+    <string name="small_heart">obere obi</string> 
+    <string name="medium_heart">ọkara obi</string> 
+    <string name="large_heart">nnukwu obi</string> 
+    <string name="action_donate">Nyene Onye Mmepụta</string> 
+    <string name="donate_title">Nye onyinye</string> 
+    <string name="donate_greeting">Nnọọ!</string> 
+    <string name="upgrade_message2">Ọ bụrụ n’inweta ngwa a m zụlitere, biko cheta ịzụta ngwa nkwalite m.</string> 
+    <string name="upgrade_message3">Ngwa nkwalite ahụ gụnyere igbe nlele maka akara mgbe ị kwụfuru ego ma ọ bụ ego, nzụta gị ga-egosikwa m na oge m ji etolite n\'efu, anaghị eji ngwa ndị mgbasa ozi kpọrọ ihe.</string> 
+    <string name="cash">Ego</string> 
+    <string name="change_due">Gbanwee Gbanwee</string> 
+    <string name="bills">Ego</string> 
+    <string name="large_number_error_toast">Njehie: ọnụ ọgụgụ buru oke ibu</string> 
+    <string name="upgrade">Nweta nkwalite</string> 
+    <string name="coins">Mkpụrụ ego</string> 
+    <string name="app_name">Gbanwee Calculator</string> 
+ </resources>

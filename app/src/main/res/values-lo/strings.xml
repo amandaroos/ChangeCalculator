@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">ລວມ</string> 
+    <string name="donate_message">ຂ້ອຍຊື່ Amanda.</string> 
+    <string name="donate_message2">ຖ້າທ່ານເພີດເພີນກັບແອັບນີ້ທີ່ຂ້ອຍພັດທະນາ, ກະລຸນາພິຈາລະນາຊື້ແອັບບໍລິຈາກຂອງຂ້ອຍ.</string> 
+    <string name="donate_message3">ແອັບ app ບໍລິຈາກບໍ່ໄດ້ເຮັດຫຍັງເລີຍ, ແຕ່ການບໍລິຈາກຂອງທ່ານຈະສະແດງໃຫ້ຂ້ອຍເຫັນວ່າເວລາຂອງຂ້ອຍທີ່ໃຊ້ເວລາໃນການພັດທະນາແບບບໍ່ເສຍຄ່າ, ບໍ່ມີໂຄສະນາຖືກຍົກຍ້ອງ.</string> 
+    <string name="donate_thanks">ຂໍຂອບໃຈ!</string> 
+    <string name="small">ຂະ ໜາດ ນ້ອຍ</string> 
+    <string name="medium">ປານກາງ</string> 
+    <string name="large">ໃຫຍ່</string> 
+    <string name="small_heart">ຫົວໃຈນ້ອຍ</string> 
+    <string name="medium_heart">ຫົວໃຈປານກາງ</string> 
+    <string name="large_heart">ຫົວໃຈໃຫຍ່</string> 
+    <string name="action_donate">ບໍລິຈາກໃຫ້ນັກພັດທະນາ</string> 
+    <string name="donate_title">ບໍລິຈາກ</string> 
+    <string name="donate_greeting">ສະບາຍດີ!</string> 
+    <string name="upgrade_message2">ຖ້າທ່ານເພີດເພີນກັບແອັບນີ້ທີ່ຂ້ອຍພັດທະນາ, ກະລຸນາພິຈາລະນາຊື້ app ຍົກລະດັບຂອງຂ້ອຍ.</string> 
+    <string name="upgrade_message3">Atque GRATUITUM</string> 
+    <string name="cash">ເງິນສົດ</string> 
+    <string name="change_due">ປ່ຽນແປງເນື່ອງຈາກ</string> 
+    <string name="bills">ໃບບິນ</string> 
+    <string name="large_number_error_toast">ຜິດພາດ: ໝາຍ ເລກໃຫຍ່ເກີນໄປ</string> 
+    <string name="upgrade">ຍົກລະດັບ</string> 
+    <string name="coins">ຫຼຽນ</string> 
+    <string name="app_name">ປ່ຽນເຄື່ອງຄິດເລກ</string> 
+ </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">Gaba ɗaya</string> 
+    <string name="donate_message">Sunana Amanda.</string> 
+    <string name="donate_message2">Idan kuna jin daɗin wannan app ɗin da na bunƙasa, da fatan za ku yi la\'akari da sayen app ɗin bayarwa na.</string> 
+    <string name="donate_message3">Aikin gudummawa ba ya yin komai, amma gudummawarku za ta nuna min cewa lokacin da nake kashewa na inganta kyauta, ba a tallata shirye-shiryen talla ba.</string> 
+    <string name="donate_thanks">Na gode!</string> 
+    <string name="small">.Arami</string> 
+    <string name="medium">Matsakaici</string> 
+    <string name="large">Manyan</string> 
+    <string name="small_heart">karamin zuciya</string> 
+    <string name="medium_heart">matsakaici zuciya</string> 
+    <string name="large_heart">babban zuciya</string> 
+    <string name="action_donate">Ba da gudummawa ga mai haɓaka</string> 
+    <string name="donate_title">Ba da gudummawa</string> 
+    <string name="donate_greeting">Sannu!</string> 
+    <string name="upgrade_message2">Idan kuna jin daɗin wannan app ɗin da na bunƙasa, da fatan za ku yi la\'akari da sayen app ɗin haɓakaina.</string> 
+    <string name="upgrade_message3">Theaukaka haɓakawa ta haɗa da akwatunan akwati don alamar lokacin da kuka daina aiki ko tsabar kuɗi, sayan ku zai nuna mini cewa lokacin da na ɓata yana inganta kyauta, ba a yaba da aikace-aikacen talla ba.</string> 
+    <string name="cash">Kudi</string> 
+    <string name="change_due">Canji Saboda</string> 
+    <string name="bills">Takardar kudi</string> 
+    <string name="large_number_error_toast">Kuskure</string> 
+    <string name="upgrade">Haɓakawa</string> 
+    <string name="coins">Tsabar kudi</string> 
+    <string name="app_name">Canja Kalkuleta</string> 
+ </resources>

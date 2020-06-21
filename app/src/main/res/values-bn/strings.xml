@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="total">মোট</string> 
+    <string name="donate_message">আমার নাম আমেন্ডা.</string> 
+    <string name="donate_message2">আপনি যদি বিকাশ করা এই অ্যাপটিটি উপভোগ করছেন তবে দয়া করে আমার অনুদানের অ্যাপ্লিকেশনটি কেনার বিষয়টি বিবেচনা করুন।</string> 
+    <string name="donate_message3">অনুদান অ্যাপ্লিকেশনটি কিছুই করে না, তবে আপনার অনুদানটি আমাকে দেখায় যে আমার সময়টি বিনামূল্যে, নো-এড অ্যাপ্লিকেশনগুলি বিকাশের জন্য ব্যয় করেছে।</string> 
+    <string name="donate_thanks">ধন্যবাদ!</string> 
+    <string name="small">ছোট</string> 
+    <string name="medium">মধ্যম</string> 
+    <string name="large">বড়</string> 
+    <string name="small_heart">ছোট হৃদয়</string> 
+    <string name="medium_heart">মাঝারি হৃদয়</string> 
+    <string name="large_heart">বড় হৃদয়</string> 
+    <string name="action_donate">বিকাশকারীকে দান করুন</string> 
+    <string name="donate_title">দান করা</string> 
+    <string name="donate_greeting">হ্যালো!</string> 
+    <string name="upgrade_message2">আপনি যদি বিকাশ করা এই অ্যাপটিটি উপভোগ করছেন তবে আমার আপগ্রেড অ্যাপ্লিকেশনটি কেনার বিষয়টি বিবেচনা করুন।</string> 
+    <string name="upgrade_message3">আপগ্রেড অ্যাপ্লিকেশনটিতে আপনার বিল বা কয়েন শেষ হয়ে গেলে চিহ্নিত করার জন্য চেকবক্সগুলি অন্তর্ভুক্ত রয়েছে এবং আপনার ক্রয়টি আমাকে দেখিয়ে দেবে যে আমার সময় নিখরচায়, নো-বিজ্ঞাপন অ্যাপ্লিকেশনগুলির জন্য প্রশংসিত হয়।</string> 
+    <string name="cash">নগদ</string> 
+    <string name="change_due">কারণে পরিবর্তন</string> 
+    <string name="bills">নোট</string> 
+    <string name="large_number_error_toast">ত্রুটি: সংখ্যাটি খুব বড়</string> 
+    <string name="upgrade">আপগ্রেড করুন</string> 
+    <string name="coins">কয়েন</string> 
+    <string name="app_name">ক্যালকুলেটর পরিবর্তন করুন</string> 
+ </resources>
