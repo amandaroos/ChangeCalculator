@@ -67,7 +67,7 @@
             android:layout_height="wrap_content"
             android:text="@string/upgrade"
             android:textColor="@android:color/white"
-            android:onClick="goToUpgradeLink "/>
+            android:onClick="goToUpgradeLink"/>
     </LinearLayout>
 </ScrollView>
 

@@ -50,4 +50,5 @@
     <string name="small_heart">small heart</string>
     <string name="medium_heart">medium heart</string>
     <string name="large_heart">large heart</string>
+    <string name="app_name">Change Calculator</string>
 </resources>
